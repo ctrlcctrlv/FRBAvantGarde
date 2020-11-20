@@ -1,0 +1,9016 @@
+SplineFontDB: 3.2
+FontName: FRBAvantGarde-Regular
+FullName: FRB Avant Garde Regular
+FamilyName: FRB Avant Garde
+Weight: Regular
+Copyright: Copyright (URW)++,Copyright 1999 by (URW)++ Design & Development
+Version: 1.5
+ItalicAngle: 0
+UnderlinePosition: -96
+UnderlineWidth: 58
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+UFOAscent: 800
+UFODescent: -200
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "public.default" 0 "glyphs"
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1605841252
+ModificationTime: 1605846588
+PfmFamily: 16
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 90
+OS2WinAscent: 818
+OS2WinAOffset: 0
+OS2WinDescent: 225
+OS2WinDOffset: 0
+HheadAscent: 818
+HheadAOffset: 0
+HheadDescent: -225
+HheadDOffset: 0
+OS2Vendor: 'QQQQ'
+DEI: 91125
+LangName: 1033 "Copyright (URW)+-+-,Copyright 1999 by (URW)+-+- Design & Development" "" "" "" "" "Version 1.005"
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 8 2
+BeginPrivate: 5
+BlueValues 23 [-20 0 547 567 739 759]
+StemSnapH 4 [68]
+StemSnapV 4 [74]
+BlueScale 8 0.039625
+ForceBold 5 false
+EndPrivate
+BeginChars: 168 168
+
+StartChar: A
+Encoding: 33 65 0
+GlifName: A_
+Width: 740
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 249 67<225 512 225 541 197 512> 719 20<328 411 411 411>
+LayerCount: 2
+Fore
+SplineSet
+11 0 m 257
+ 328 739 l 257
+ 411 739 l 257
+ 729 0 l 257
+ 648 0 l 257
+ 541 249 l 257
+ 197 249 l 257
+ 89 0 l 257
+ 11 0 l 257
+225 316 m 257
+ 512 316 l 257
+ 370 655 l 257
+ 225 316 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I249
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: B
+Encoding: 34 66 1
+GlifName: B_
+Width: 574
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<150 251 251 259> 354 67<150 238 150 240> 672 67<150 239 150 150>
+VStem: 76 74<67 67 67 354 421 672> 427 75<520.5 567.5> 469 75<182.5 237.5>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 249 739 l 258
+ 339 739 394 726 436 696 c 256
+ 478 665 502 611 502 547 c 256
+ 502 474 477 426 420 394 c 257
+ 506 359 544 302 544 212 c 256
+ 544 136 513 71 461 39 c 256
+ 414 11 358 0 259 0 c 258
+ 76 0 l 257
+150 67 m 257
+ 251 67 l 258
+ 326 67 376 75 411 94 c 256
+ 446 112 469 157 469 208 c 256
+ 469 267 444 311 400 333 c 256
+ 369 348 325 354 238 354 c 258
+ 150 354 l 257
+ 150 67 l 257
+150 421 m 257
+ 240 421 l 258
+ 307 421 339 426 370 440 c 256
+ 407 457 427 495 427 546 c 256
+ 427 589 410 629 384 646 c 256
+ 356 665 315 672 239 672 c 258
+ 150 672 l 257
+ 150 421 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I354
+sg7
+I67
+sa(dp9
+g6
+I672
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I76
+sg7
+I74
+sa(dp13
+g6
+I427
+sg7
+I75
+sa(dp14
+g6
+I469
+sg7
+I75
+sass."
+EndChar
+
+StartChar: C
+Encoding: 35 67 2
+GlifName: C_
+Width: 813
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<345.5 491.983 345.5 507> 684 68<342 490.476>
+VStem: 44 75<283.5 459 283.5 477.5>
+LayerCount: 2
+Fore
+SplineSet
+688 194 m 257
+ 770 194 l 257
+ 696 57 582 -13 432 -13 c 256
+ 211 -13 44 151 44 367 c 256
+ 44 588 207 752 427 752 c 256
+ 580 752 710 674 767 547 c 257
+ 684 547 l 257
+ 630.874 630.484 550.951 684 430 684 c 256
+ 254 684 119 548 119 370 c 256
+ 119 197 260 55 431 55 c 256
+ 552.967 55 625.583 115.476 688 194 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I684
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I44
+sg7
+I75
+sass."
+EndChar
+
+StartChar: D
+Encoding: 36 68 3
+GlifName: D_
+Width: 744
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<150 253 253 275> 672 67<150 250 250 253 150 150>
+VStem: 76 74<67 67 67 672> 625 75<321.5 425>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 250 739 l 258
+ 384 739 462 723 532 681 c 256
+ 642 616 700 506 700 367 c 256
+ 700 229 641 121 529 55 c 256
+ 464 17 386 0 275 0 c 258
+ 76 0 l 257
+150 67 m 257
+ 253 67 l 258
+ 384 67 460 86 519 133 c 256
+ 587 188 625 273 625 370 c 256
+ 625 480 576 573 491 624 c 256
+ 435 658 365 672 253 672 c 258
+ 150 672 l 257
+ 150 67 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I672
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sa(dp12
+g6
+I625
+sg7
+I75
+sass."
+EndChar
+
+StartChar: E
+Encoding: 37 69 4
+GlifName: E_
+Width: 536
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<150 480 150 480> 340 67<150 469 150 469> 672 67<150 480 150 150>
+VStem: 76 74<67 340 407 672>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 480 739 l 257
+ 480 672 l 257
+ 150 672 l 257
+ 150 407 l 257
+ 469 407 l 257
+ 469 340 l 257
+ 150 340 l 257
+ 150 67 l 257
+ 480 67 l 257
+ 480 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I340
+sg7
+I67
+sa(dp9
+g6
+I672
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I76
+sg7
+I74
+sass."
+EndChar
+
+StartChar: F
+Encoding: 38 70 5
+GlifName: F_
+Width: 485
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 338 67<150 440 150 440> 672 67<150 451 150 150>
+VStem: 76 74<0 338 405 672>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 451 739 l 257
+ 451 672 l 257
+ 150 672 l 257
+ 150 405 l 257
+ 440 405 l 257
+ 440 338 l 257
+ 150 338 l 257
+ 150 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I338
+sg7
+I67
+sa(dp9
+g6
+I672
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I76
+sg7
+I74
+sass."
+EndChar
+
+StartChar: G
+Encoding: 39 71 6
+GlifName: G_
+Width: 872
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<352.5 504.5> 274 67<329 742 329 831> 684 68<351 499>
+VStem: 44 75<281 458 281 478>
+LayerCount: 2
+Fore
+SplineSet
+329 341 m 257
+ 831 341 l 257
+ 826 258 794 181 734 112 c 256
+ 663 31 563 -13 446 -13 c 256
+ 220 -13 44 155 44 371 c 256
+ 44 585 216 752 436 752 c 256
+ 597 752 737 668 786 542 c 257
+ 703 542 l 257
+ 652 632 556 684 442 684 c 256
+ 260 684 119 547 119 369 c 256
+ 119 193 262 55 443 55 c 256
+ 585.029 55 714.306 153.153 742 274 c 257
+ 329 274 l 257
+ 329 341 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I274
+sg7
+I67
+sa(dp9
+g6
+I684
+sg7
+I68
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I44
+sg7
+I75
+sass."
+EndChar
+
+StartChar: H
+Encoding: 40 72 7
+GlifName: H_
+Width: 683
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 347 67<150 533 150 533> 719 20<76 150 150 150 533 607 607 607>
+VStem: 76 74<0 347 414 739> 533 74<0 347 347 347 414 739 0 739>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 150 739 l 257
+ 150 414 l 257
+ 533 414 l 257
+ 533 739 l 257
+ 607 739 l 257
+ 607 0 l 257
+ 533 0 l 257
+ 533 347 l 257
+ 150 347 l 257
+ 150 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I347
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I76
+sg7
+I74
+sa(dp13
+g6
+I533
+sg7
+I74
+sass."
+EndChar
+
+StartChar: I
+Encoding: 41 73 8
+GlifName: I_
+Width: 226
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<76 150 150 150>
+VStem: 76 74<0 739 0 739>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 150 739 l 257
+ 150 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sass."
+EndChar
+
+StartChar: J
+Encoding: 42 74 9
+GlifName: J_
+Width: 482
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -14 68<173.5 250 173.5 277.014> 719 20<332 406 406 406>
+VStem: 332 74<231 739>
+LayerCount: 2
+Fore
+SplineSet
+332 739 m 257
+ 406 739 l 257
+ 406 231 l 258
+ 406 83.8623 345.028 -14 209 -14 c 256
+ 91 -14 17 57 11 175 c 257
+ 84 175 l 257
+ 89 100 137 54 210 54 c 256
+ 290 54 332 114 332 231 c 258
+ 332 739 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-14
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I332
+sg7
+I74
+sass."
+EndChar
+
+StartChar: K
+Encoding: 43 75 10
+GlifName: K_
+Width: 591
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<76 150 150 150 492 585 585 585>
+VStem: 76 74<0 202 314 739>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 150 739 l 257
+ 150 314 l 257
+ 492 739 l 257
+ 585 739 l 257
+ 293 379 l 257
+ 585 0 l 257
+ 492 0 l 257
+ 246 320 l 257
+ 150 202 l 257
+ 150 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sass."
+EndChar
+
+StartChar: L
+Encoding: 44 76 11
+GlifName: L_
+Width: 462
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<150 456 150 456> 719 20<76 150 150 150>
+VStem: 76 74<67 739 67 739 67 739>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 150 739 l 257
+ 150 67 l 257
+ 456 67 l 257
+ 456 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sass."
+EndChar
+
+StartChar: M
+Encoding: 45 77 12
+GlifName: M_
+Width: 919
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<76 191 191 191 728 843 843 843>
+VStem: 76 74<0 658 0 739> 769 74<0 658 658 658>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 191 739 l 257
+ 460 110 l 257
+ 728 739 l 257
+ 843 739 l 257
+ 843 0 l 257
+ 769 0 l 257
+ 769 658 l 257
+ 491 0 l 257
+ 427 0 l 257
+ 150 658 l 257
+ 150 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sa(dp12
+g6
+I769
+sg7
+I74
+sass."
+EndChar
+
+StartChar: N
+Encoding: 46 78 13
+GlifName: N_
+Width: 740
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<76 176 176 176 590 664 664 664>
+VStem: 76 74<0 650 0 739> 590 74<0 739 126 739 0 739>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 176 739 l 257
+ 590 126 l 257
+ 590 739 l 257
+ 664 739 l 257
+ 664 0 l 257
+ 590 0 l 257
+ 150 650 l 257
+ 150 0 l 257
+ 76 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sa(dp12
+g6
+I590
+sg7
+I74
+sass."
+EndChar
+
+StartChar: O
+Encoding: 47 79 14
+GlifName: O_
+Width: 869
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<348 521 348 542> 684 68<349.5 521>
+VStem: 44 75<284.5 456.5 284.5 476.5> 750 75<282.5 454.5>
+LayerCount: 2
+Fore
+SplineSet
+435 752 m 256
+ 649 752 825 580 825 369 c 256
+ 825 160 649 -13 435 -13 c 256
+ 218 -13 44 159 44 374 c 256
+ 44 579 223 752 435 752 c 256
+435 684 m 256
+ 264 684 119 541 119 372 c 256
+ 119 197 261 55 435 55 c 256
+ 607 55 750 197 750 368 c 256
+ 750 541 607 684 435 684 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I684
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I44
+sg7
+I75
+sa(dp12
+g6
+I750
+sg7
+I75
+sass."
+EndChar
+
+StartChar: P
+Encoding: 48 80 15
+GlifName: P_
+Width: 592
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 299 67<150 287 287 292 150 287> 672 67<150 255 150 150>
+VStem: 76 74<0 299 366 672> 490 75<486.5 548>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 280 739 l 258
+ 375 739 431 728 477 700 c 256
+ 533 667 565 600 565 515 c 256
+ 565 441 539 380 491 345 c 256
+ 446 312 392 299 292 299 c 258
+ 150 299 l 257
+ 150 0 l 257
+ 76 0 l 257
+150 366 m 257
+ 287 366 l 258
+ 355 366 398 373 429 391 c 256
+ 467 412 490 458 490 515 c 256
+ 490 581 466 628 423 650 c 256
+ 393 665 340 672 255 672 c 258
+ 150 672 l 257
+ 150 366 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I299
+sg7
+I67
+sa(dp9
+g6
+I672
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I76
+sg7
+I74
+sa(dp13
+g6
+I490
+sg7
+I75
+sass."
+EndChar
+
+StartChar: Q
+Encoding: 49 81 16
+GlifName: Q_
+Width: 871
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<381.185 474 381.185 483.5> 237 68<259.5 340> 684 68<350.5 533>
+VStem: 44 75<349.5 454 349.5 478.5> 764 75<327.5 459.5>
+LayerCount: 2
+Fore
+SplineSet
+827 56 m 257
+ 827 -13 l 257
+ 823.603 -12.9508 820.271 -12.8652 817 -12.7413 c 256
+ 753.842 -10.3493 713.489 6.31414 665 51 c 257
+ 603 9 524 -13 443 -13 c 256
+ 221 -13 44 157 44 369 c 256
+ 44 588 216 752 444 752 c 256
+ 670 752 839 590 839 371 c 256
+ 839 258 796 161 716 93 c 257
+ 754 66 781 55 812 55 c 256
+ 815 55 821 55 827 56 c 257
+161 216 m 257
+ 207.177 130.938 319.371 55 443 55 c 256
+ 505 55 555 69 605 100 c 257
+ 498 197 403 237 277 237 c 256
+ 231 237 201 232 161 216 c 257
+130 279 m 257
+ 187 298 231 305 288 305 c 256
+ 393 305 486 276 569 217 c 256
+ 599 195 628 173 663 142 c 257
+ 731 207 764 284 764 371 c 256
+ 764 548 624 684 442 684 c 256
+ 259 684 119 545 119 363 c 256
+ 119 336 122 315 130 279 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I237
+sg7
+I68
+sa(dp9
+g6
+I684
+sg7
+I68
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I44
+sg7
+I75
+sa(dp13
+g6
+I764
+sg7
+I75
+sass."
+EndChar
+
+StartChar: R
+Encoding: 50 82 17
+GlifName: R_
+Width: 607
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 672 67<150 254 150 150>
+VStem: 76 74<0 672 0 739 0 739> 502 75<435.5 537.5>
+LayerCount: 2
+Fore
+SplineSet
+359 276 m 257
+ 566 0 l 257
+ 474 0 l 257
+ 225 335 l 257
+ 262 335.314 l 257
+ 410.641 338.038 502 366.671 502 504 c 256
+ 502 571 474 621 424 645 c 256
+ 384 664 332 672 254 672 c 258
+ 150 672 l 257
+ 150 0 l 257
+ 76 0 l 257
+ 76 739 l 257
+ 259 739 l 258
+ 356 739 420 728 466 703 c 256
+ 538 664 577 594 577 501 c 256
+ 577 370 501 291 359 276 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I672
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sa(dp12
+g6
+I502
+sg7
+I75
+sass."
+EndChar
+
+StartChar: S
+Encoding: 51 83 18
+GlifName: S_
+Width: 498
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<215.316 297 209.683 317> 684 68<212 286.5>
+VStem: 46 75<538 592 538 610.5> 401 75<159.5 224.5>
+LayerCount: 2
+Fore
+SplineSet
+22 207 m 257
+ 101 207 l 257
+ 110.834 116.531 164.366 55 255 55 c 256
+ 339 55 401 117 401 202 c 256
+ 401 247 383 285 350 308 c 256
+ 326 325 294 339 236 357 c 256
+ 150 383 127 394 98 422 c 256
+ 65 453 46 502 46 553 c 256
+ 46 668 132 752 251 752 c 256
+ 372 752 455 672 458 552 c 257
+ 381 552 l 257
+ 376 632 324 684 249 684 c 256
+ 175 684 121 629 121 555 c 256
+ 121 521 135 488 156 469 c 256
+ 176 452 198 443 265 423 c 256
+ 341 400 372 386 402 364 c 256
+ 449 329 476 271 476 206 c 256
+ 476 80 381 -13 253 -13 c 256
+ 177.632 -13 115.751 14.9378 75 63.3524 c 256
+ 43.839 100.374 25.0333 149.368 22 207 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I684
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I46
+sg7
+I75
+sa(dp12
+g6
+I401
+sg7
+I75
+sass."
+EndChar
+
+StartChar: T
+Encoding: 52 84 19
+GlifName: T_
+Width: 426
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 672 67<7 176 7 419 250 250 250 419>
+VStem: 176 74<0 672 0 672>
+LayerCount: 2
+Fore
+SplineSet
+176 0 m 257
+ 176 672 l 257
+ 7 672 l 257
+ 7 739 l 257
+ 419 739 l 257
+ 419 672 l 257
+ 250 672 l 257
+ 250 0 l 257
+ 176 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I672
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I176
+sg7
+I74
+sass."
+EndChar
+
+StartChar: U
+Encoding: 53 85 20
+GlifName: U_
+Width: 655
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<297.5 358 297.5 368> 719 20<76 150 150 150 505 579 579 579>
+VStem: 76 74<278 739> 505 74<278 739>
+LayerCount: 2
+Fore
+SplineSet
+76 739 m 257
+ 150 739 l 257
+ 150 278 l 258
+ 150 211 161 160 184 125 c 256
+ 212 82 267 55 328 55 c 256
+ 388 55 443 82 471 125 c 256
+ 494 160 505 211 505 278 c 258
+ 505 739 l 257
+ 579 739 l 257
+ 579 278 l 258
+ 579 183 564 127 527 78 c 256
+ 483 21 409 -13 327 -13 c 256
+ 246 -13 172 21 128 78 c 256
+ 91 127 76 183 76 278 c 258
+ 76 739 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I76
+sg7
+I74
+sa(dp12
+g6
+I505
+sg7
+I74
+sass."
+EndChar
+
+StartChar: V
+Encoding: 54 86 21
+GlifName: V_
+Width: 702
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<10 91 91 91 612 692 692 692>
+LayerCount: 2
+Fore
+SplineSet
+314 0 m 257
+ 10 739 l 257
+ 91 739 l 257
+ 351 92 l 257
+ 612 739 l 257
+ 692 739 l 257
+ 386 0 l 257
+ 314 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: W
+Encoding: 55 87 22
+GlifName: W_
+Width: 960
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<10 86 86 86 445 515 515 515 874 950 950 950>
+LayerCount: 2
+Fore
+SplineSet
+221 0 m 257
+ 10 739 l 257
+ 86 739 l 257
+ 268 96 l 257
+ 445 739 l 257
+ 515 739 l 257
+ 692 96 l 257
+ 874 739 l 257
+ 950 739 l 257
+ 738 0 l 257
+ 643 0 l 257
+ 479 606 l 257
+ 317 0 l 257
+ 221 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: X
+Encoding: 56 88 23
+GlifName: X_
+Width: 609
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<22 109 109 109 500 586 586 586>
+LayerCount: 2
+Fore
+SplineSet
+8 0 m 257
+ 259 378 l 257
+ 22 739 l 257
+ 109 739 l 257
+ 305 443 l 257
+ 500 739 l 257
+ 586 739 l 257
+ 349 378 l 257
+ 601 0 l 257
+ 514 0 l 257
+ 305 316 l 257
+ 95 0 l 257
+ 8 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: Y
+Encoding: 57 89 24
+GlifName: Y_
+Width: 592
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<2 84 84 84 509 590 590 590>
+VStem: 258 74<0 247 0 247>
+LayerCount: 2
+Fore
+SplineSet
+258 0 m 257
+ 258 247 l 257
+ 2 739 l 257
+ 84 739 l 257
+ 294 325 l 257
+ 509 739 l 257
+ 590 739 l 257
+ 332 247 l 257
+ 332 0 l 257
+ 258 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I258
+sg7
+I74
+sass."
+EndChar
+
+StartChar: Z
+Encoding: 58 90 25
+GlifName: Z_
+Width: 480
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<17 17 101 474> 672 67<28 380 28 463 28 463>
+LayerCount: 2
+Fore
+SplineSet
+17 0 m 257
+ 17 67 l 257
+ 380 672 l 257
+ 28 672 l 257
+ 28 739 l 257
+ 463 739 l 257
+ 463 672 l 257
+ 101 67 l 257
+ 474 67 l 257
+ 474 0 l 257
+ 17 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I672
+sg7
+I67
+sass."
+EndChar
+
+StartChar: Thorn
+Encoding: 122 222 26
+GlifName: T_horn
+Width: 592
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 166 67<150 287 287 292 150 287> 539 67<150 255 150 150> 719 20<76 143 143 143>
+VStem: 76 67<606 739 606 739 606 739> 76 74<0 166 233 539> 490 75<353.5 415>
+LayerCount: 2
+Fore
+SplineSet
+76 0 m 257
+ 76 739 l 257
+ 143 739 l 257
+ 143 606 l 257
+ 280 606 l 258
+ 375 606 431 595 477 567 c 256
+ 533 534 565 467 565 382 c 256
+ 565 308 539 247 491 212 c 256
+ 446 179 392 166 292 166 c 258
+ 150 166 l 257
+ 150 0 l 257
+ 76 0 l 257
+150 233 m 257
+ 287 233 l 258
+ 355 233 398 240 429 258 c 256
+ 467 279 490 325 490 382 c 256
+ 490 448 466 495 423 517 c 256
+ 393 532 340 539 255 539 c 258
+ 150 539 l 257
+ 150 233 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I166
+sg7
+I67
+sa(dp9
+g6
+I539
+sg7
+I67
+sa(dp10
+g6
+I719
+sg7
+I20
+sasVvhints
+p11
+(lp12
+(dp13
+g6
+I76
+sg7
+I67
+sa(dp14
+g6
+I76
+sg7
+I74
+sa(dp15
+g6
+I490
+sg7
+I75
+sass."
+EndChar
+
+StartChar: a
+Encoding: 65 97 27
+GlifName: a
+Width: 683
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<274 381.5> 492 68<272.5 377.5 248 392> 527 20<546 620 620 620>
+VStem: 42 75<214.5 336.5 214.5 354> 546 74<0 96 96 96 214 337 450 547 0 547>
+LayerCount: 2
+Fore
+SplineSet
+620 547 m 257
+ 620 0 l 257
+ 546 0 l 257
+ 546 96 l 257
+ 488 18 428 -13 335 -13 c 256
+ 167 -13 42 109 42 272 c 256
+ 42 436 166 560 330 560 c 256
+ 425 560 492 526 546 450 c 257
+ 546 547 l 257
+ 620 547 l 257
+332 492 m 256
+ 213 492 117 396 117 277 c 256
+ 117 152 212 55 336 55 c 256
+ 454 55 546 152 546 276 c 256
+ 546 398 452 492 332 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sa(dp9
+g6
+I527
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I42
+sg7
+I75
+sa(dp13
+g6
+I546
+sg7
+I74
+sass."
+EndChar
+
+StartChar: b
+Encoding: 66 98 28
+GlifName: b
+Width: 682
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<306 410.5 288.866 433.5> 492 68<306 411.5> 719 20<63 137 137 137>
+VStem: 63 74<0 94 453 739> 565 75<213 337.5>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 739 l 257
+ 137 739 l 257
+ 137 453 l 257
+ 184 522 260 560 352 560 c 256
+ 514 560 640 435 640 274 c 256
+ 640 110 516 -13 351 -13 c 256
+ 261 -13 183 26 137 94 c 257
+ 137 0 l 257
+ 63 0 l 257
+350 492 m 256
+ 228 492 132 397 132 276 c 256
+ 132 155.225 228.733 55 349 55 c 256
+ 472 55 565 150 565 276 c 256
+ 565 399 473 492 350 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I63
+sg7
+I74
+sa(dp13
+g6
+I565
+sg7
+I75
+sass."
+EndChar
+
+StartChar: c
+Encoding: 67 99 29
+GlifName: c
+Width: 647
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: -13 68<275.5 374> 492 68<273 374.5>
+VStem: 42 75<212.5 334.5 212.5 354.5>
+LayerCount: 2
+Fore
+SplineSet
+524 161 m 257
+ 608 161 l 257
+ 554.492595643 59.335931722 474.475366511 -13 340 -13 c 260
+ 172 -13 42 112 42 275 c 256
+ 42 434 171 560 335 560 c 256
+ 417.38084517 560 491.687206519 529.047812022 544.999996216 475.555865354 c 0
+ 571.286694959 449.180830485 592.46957063 417.326073425 607 381 c 257
+ 524 381 l 257
+ 482 453 415 492 334 492 c 256
+ 212 492 117 396 117 273 c 256
+ 117 152 214 55 337 55 c 256
+ 414 55 467 85 524 161 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I42
+sg7
+I75
+sass."
+EndChar
+
+StartChar: d
+Encoding: 68 100 30
+GlifName: d
+Width: 685
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<275.5 385.5> 492 68<271.5 376 250.5 391.5> 719 20<548 622 622 622>
+VStem: 42 75<213.5 336 213.5 354.5> 548 74<0 99 99 99 460 739 0 739>
+LayerCount: 2
+Fore
+SplineSet
+622 739 m 257
+ 622 0 l 257
+ 548 0 l 257
+ 548 99 l 257
+ 493 20 431 -13 340 -13 c 256
+ 171 -13 42 111 42 273 c 256
+ 42 436 168 560 333 560 c 256
+ 419 560 494 525 548 460 c 257
+ 548 739 l 257
+ 622 739 l 257
+331 492 m 256
+ 212 492 117 396 117 276 c 256
+ 117 151 213 55 338 55 c 256
+ 455 55 551 155 551 275 c 256
+ 551 395 452 492 331 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I42
+sg7
+I75
+sa(dp13
+g6
+I548
+sg7
+I74
+sass."
+EndChar
+
+StartChar: e
+Encoding: 69 101 31
+GlifName: e
+Width: 650
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: -13 68<273 366> 249 67<118 537 118 611 116 537> 492 68<273 378>
+LayerCount: 2
+Fore
+SplineSet
+611 249 m 257
+ 116 249 l 257
+ 122 141 217 55 329 55 c 256
+ 412 55 489 105 520 180 c 257
+ 597 180 l 257
+ 582 135 556 97 517 60 c 256
+ 467 13 401 -13 331 -13 c 256
+ 169 -13 42 114 42 276 c 256
+ 42 435 167 560 326 560 c 256
+ 474.348607565 560 597.570720193 452.963098118 609.445002754 295 c 4
+ 610.507194051 280.869712361 611 265.649424807 611 249 c 257
+118 316 m 257
+ 537 316 l 257
+ 512 425 431 492 325 492 c 256
+ 221 492 138 421 118 316 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I249
+sg7
+I67
+sa(dp9
+g6
+I492
+sg7
+I68
+sass."
+EndChar
+
+StartChar: f
+Encoding: 70 102 32
+GlifName: f
+Width: 314
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 480 67<16 101 16 101 175 311> 719 20<240.5 311>
+VStem: 101 74<0 480 0 480 0 547>
+LayerCount: 2
+Fore
+SplineSet
+101 0 m 257
+ 101 480 l 257
+ 16 480 l 257
+ 16 547 l 257
+ 101 547 l 257
+ 99 674 170 739 311 739 c 257
+ 311 672 l 257
+ 210 671 174 638 175 547 c 257
+ 311 547 l 257
+ 311 480 l 257
+ 175 480 l 257
+ 175 0 l 257
+ 101 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I480
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I101
+sg7
+I74
+sass."
+EndChar
+
+StartChar: g
+Encoding: 71 103 33
+GlifName: g
+Width: 673
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -215 68<304.5 384.5> -13 68<267 376> 492 68<265.5 368 242 385>
+VStem: 42 75<213.5 339.5 213.5 353.5> 536 74<74 98 98 111 111 111 216 339.5 450 547>
+LayerCount: 2
+Fore
+SplineSet
+536 547 m 257
+ 610 547 l 257
+ 610 98 l 258
+ 610 -9 596 -67 559 -117 c 256
+ 512 -179 432 -215 337 -215 c 256
+ 199 -215 102 -145 62 -17 c 257
+ 134 -17 l 257
+ 158 -59 169 -75 188 -92 c 256
+ 227 -129 274 -147 335 -147 c 256
+ 469.204 -147 536 -67.1651 536 74 c 258
+ 536 111 l 257
+ 493 27 425 -13 327 -13 c 256
+ 167 -13 42 111 42 271 c 256
+ 42 436 162 560 322 560 c 256
+ 414 560 481 525 536 450 c 257
+ 536 547 l 257
+326 492 m 256
+ 205 492 117 402 117 277 c 256
+ 117 150 207 55 327 55 c 256
+ 446 55 536 152 536 280 c 256
+ 536 399 444 492 326 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-215
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I-13
+sg7
+I68
+sa(dp9
+g6
+I492
+sg7
+I68
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I42
+sg7
+I75
+sa(dp13
+g6
+I536
+sg7
+I74
+sass."
+EndChar
+
+StartChar: h
+Encoding: 72 104 34
+GlifName: h
+Width: 610
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 492 68<276 330.5> 719 20<63 137 137 137>
+VStem: 63 74<0 300 476 739> 473 74<0 294 0 326>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 739 l 257
+ 137 739 l 257
+ 137 476 l 257
+ 174 530 236 560 311 560 c 256
+ 390 560 459 529 500 475 c 256
+ 532 432 547 376 547 294 c 258
+ 547 0 l 257
+ 473 0 l 257
+ 473 294 l 258
+ 473 358 462 400 436 432 c 256
+ 407 469 357 492 304 492 c 256
+ 248 492 197 467 167 424 c 256
+ 145 394 137 359 137 300 c 258
+ 137 0 l 257
+ 63 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I492
+sg7
+I68
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I63
+sg7
+I74
+sa(dp13
+g6
+I473
+sg7
+I74
+sass."
+EndChar
+
+StartChar: i
+Encoding: 73 105 35
+GlifName: i
+Width: 200
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 613 126<63 137 63 137>
+VStem: 63 74<0 547 0 547 613 739>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 547 l 257
+ 137 547 l 257
+ 137 0 l 257
+ 63 0 l 257
+63 613 m 257
+ 63 739 l 257
+ 137 739 l 257
+ 137 613 l 257
+ 63 613 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I613
+sg7
+I126
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I63
+sg7
+I74
+sass."
+EndChar
+
+StartChar: j
+Encoding: 74 106 36
+GlifName: j
+Width: 203
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -192 20 613 126<66 140 66 140>
+VStem: 66 74<38 547 613 739>
+LayerCount: 2
+Fore
+SplineSet
+66 547 m 257
+ 140 547 l 257
+ 140 38 l 258
+ 140 -69 123 -115 70 -155 c 256
+ 37 -179 3 -190 -45 -192 c 257
+ -45 -121 l 257
+ 38 -116 66 -76 66 38 c 258
+ 66 547 l 257
+66 613 m 257
+ 66 739 l 257
+ 140 739 l 257
+ 140 613 l 257
+ 66 613 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-192
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I613
+sg7
+I126
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I66
+sg7
+I74
+sass."
+EndChar
+
+StartChar: k
+Encoding: 75 107 37
+GlifName: k
+Width: 502
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<63 137 137 137>
+VStem: 63 74<0 113 215 739>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 739 l 257
+ 137 739 l 257
+ 137 215 l 257
+ 392 547 l 257
+ 483 547 l 257
+ 270 272 l 257
+ 497 0 l 257
+ 405 0 l 257
+ 223 219 l 257
+ 137 113 l 257
+ 137 0 l 257
+ 63 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I63
+sg7
+I74
+sass."
+EndChar
+
+StartChar: l
+Encoding: 76 108 38
+GlifName: l
+Width: 200
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<63 137 137 137>
+VStem: 63 74<0 739 0 739>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 739 l 257
+ 137 739 l 257
+ 137 0 l 257
+ 63 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I63
+sg7
+I74
+sass."
+EndChar
+
+StartChar: m
+Encoding: 77 109 39
+GlifName: m
+Width: 938
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 492 68<261.163 306.5> 493 68<630 680> 527 20<63 137 137 137>
+VStem: 63 74<0 319 484 547> 432 74<0 317 0 319 0 347.5> 801 74<0 317 317 325 0 344.5>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 547 l 257
+ 137 547 l 257
+ 137 484 l 257
+ 179 539 222 560 291 560 c 256
+ 373 560 427 528 470 455 c 257
+ 516 528 575 561 660 561 c 256
+ 731 561 793 533 831 483 c 256
+ 862 444 875 397 875 325 c 258
+ 875 0 l 257
+ 801 0 l 257
+ 801 317 l 258
+ 801 372 791 413 771 441 c 256
+ 746 474 704 493 656 493 c 256
+ 604 493 558 470 532 430 c 256
+ 514 404 506 370 506 317 c 258
+ 506 0 l 257
+ 432 0 l 257
+ 432 319 l 258
+ 432 376 422 414 398 442 c 256
+ 371 474 329 492 284 492 c 256
+ 238.325 492 201.769 476.225 176.536 447 c 256
+ 150.945 417.36 137 373.885 137 319 c 258
+ 137 0 l 257
+ 63 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I492
+sg7
+I68
+sa(dp9
+g6
+I493
+sg7
+I68
+sa(dp10
+g6
+I527
+sg7
+I20
+sasVvhints
+p11
+(lp12
+(dp13
+g6
+I63
+sg7
+I74
+sa(dp14
+g6
+I432
+sg7
+I74
+sa(dp15
+g6
+I801
+sg7
+I74
+sass."
+EndChar
+
+StartChar: n
+Encoding: 78 110 40
+GlifName: n
+Width: 610
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 492 68<277 331> 527 20<63 137 137 137>
+VStem: 63 74<0 301 476 547> 473 74<0 287 0 323>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 547 l 257
+ 137 547 l 257
+ 137 476 l 257
+ 183 532 241 560 313 560 c 256
+ 390 560 456 529 499 475 c 256
+ 534 428 547 379 547 287 c 258
+ 547 0 l 257
+ 473 0 l 257
+ 473 287 l 258
+ 473 359 463 399 437 433 c 256
+ 407 470 358 492 304 492 c 256
+ 246 492 195 467 166 425 c 256
+ 145 394 137 362 137 301 c 258
+ 137 0 l 257
+ 63 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I492
+sg7
+I68
+sa(dp9
+g6
+I527
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I63
+sg7
+I74
+sa(dp13
+g6
+I473
+sg7
+I74
+sass."
+EndChar
+
+StartChar: o
+Encoding: 79 111 41
+GlifName: o
+Width: 655
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<270 392.5 270 415> 492 68<268.5 389>
+VStem: 42 75<211 337 211 357> 538 75<208.5 334.5>
+LayerCount: 2
+Fore
+SplineSet
+329 560 m 256
+ 493 560 613 439 613 272 c 256
+ 613 108 495 -13 335 -13 c 256
+ 165 -13 42 109 42 277 c 256
+ 42 437 167 560 329 560 c 256
+329 492 m 256
+ 208 492 117 399 117 275 c 256
+ 117 147 207 55 333 55 c 256
+ 452 55 538 146 538 271 c 256
+ 538 398 449 492 329 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I42
+sg7
+I75
+sa(dp12
+g6
+I538
+sg7
+I75
+sass."
+EndChar
+
+StartChar: p
+Encoding: 80 112 42
+GlifName: p
+Width: 682
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -192 20 -13 68<304.5 411 287.5 431.5> 492 68<305.5 410.5>
+VStem: 63 74<-192 94 453 547> 565 75<210.5 335>
+LayerCount: 2
+Fore
+SplineSet
+63 547 m 257
+ 137 547 l 257
+ 137 453 l 257
+ 183 522 259 560 352 560 c 256
+ 515 560 640 435 640 272 c 256
+ 640 112 513 -13 350 -13 c 256
+ 259 -13 185 24 137 94 c 257
+ 137 -192 l 257
+ 63 -192 l 257
+ 63 547 l 257
+349 492 m 256
+ 228 492 132 397 132 276 c 256
+ 132 150 225 55 350 55 c 256
+ 472 55 565 149 565 272 c 256
+ 565 398 472 492 349 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-192
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I-13
+sg7
+I68
+sa(dp9
+g6
+I492
+sg7
+I68
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I63
+sg7
+I74
+sa(dp13
+g6
+I565
+sg7
+I75
+sass."
+EndChar
+
+StartChar: q
+Encoding: 81 113 43
+GlifName: q
+Width: 682
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -192 20 -13 68<271.5 377.5> 492 68<271.5 376.5 248.5 395>
+VStem: 42 75<210.5 335 210.5 354> 545 74<-192 94 94 94 453 547 -192 547>
+LayerCount: 2
+Fore
+SplineSet
+545 547 m 257
+ 619 547 l 257
+ 619 -192 l 257
+ 545 -192 l 257
+ 545 94 l 257
+ 497 24 423 -13 332 -13 c 256
+ 169 -13 42 112 42 273 c 256
+ 42 435 167 560 330 560 c 256
+ 423 560 499 523 545 453 c 257
+ 545 547 l 257
+333 492 m 256
+ 210 492 117 398 117 272 c 256
+ 117 149 210 55 333 55 c 256
+ 454 55 550 150 550 270 c 256
+ 550 397 457 492 333 492 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-192
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I-13
+sg7
+I68
+sa(dp9
+g6
+I492
+sg7
+I68
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I42
+sg7
+I75
+sa(dp13
+g6
+I545
+sg7
+I74
+sass."
+EndChar
+
+StartChar: r
+Encoding: 82 114 44
+GlifName: r
+Width: 301
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 527 20<63 137 137 137> 540 20<292 292>
+VStem: 63 74<0 319 469 547>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 63 547 l 257
+ 137 547 l 257
+ 137 469 l 257
+ 166 529 213 556 292 560 c 257
+ 292 487 l 257
+ 189 477 137 421 137 319 c 258
+ 137 0 l 257
+ 63 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I527
+sg7
+I20
+sa(dp9
+g6
+I540
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I63
+sg7
+I74
+sass."
+EndChar
+
+StartChar: s
+Encoding: 83 115 45
+GlifName: s
+Width: 388
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<163.794 220.5 163.5 243> 492 68<170 216>
+VStem: 38 75<397 435 397 450.5> 286 75<122.5 165>
+LayerCount: 2
+Fore
+SplineSet
+18 161 m 257
+ 91 161 l 257
+ 95 94 133 55 194 55 c 256
+ 247 55 286 95 286 150 c 256
+ 286 180 273 206 251 221 c 256
+ 237 230 213 242 180 255 c 256
+ 103 287 102 287 79 308 c 256
+ 52 333 38 367 38 406 c 256
+ 38 495 104 560 193 560 c 256
+ 281 560 344 500 347 412 c 257
+ 272 412 l 257
+ 268 464 240 492 192 492 c 256
+ 148 492 113 457 113 413 c 256
+ 113 381 129 358 163 341 c 256
+ 179 333 183 331 266 297 c 256
+ 298.912 283.115 323.097 264.206 338.827 240 c 256
+ 353.685 217.136 361 189.545 361 157 c 256
+ 361 57 292 -13 194 -13 c 256
+ 133.589 -13 84.7644 9.50899 54 48.8136 c 256
+ 31.2926 77.8246 18.4247 115.986 18 161 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I38
+sg7
+I75
+sa(dp12
+g6
+I286
+sg7
+I75
+sass."
+EndChar
+
+StartChar: t
+Encoding: 84 116 46
+GlifName: t
+Width: 339
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 480 67<12 130 12 130 204 327> 719 20<130 204 204 204>
+VStem: 130 74<0 480 0 480 547 739>
+LayerCount: 2
+Fore
+SplineSet
+130 0 m 257
+ 130 480 l 257
+ 12 480 l 257
+ 12 547 l 257
+ 130 547 l 257
+ 130 739 l 257
+ 204 739 l 257
+ 204 547 l 257
+ 327 547 l 257
+ 327 480 l 257
+ 204 480 l 257
+ 204 0 l 257
+ 130 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I480
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I130
+sg7
+I74
+sass."
+EndChar
+
+StartChar: u
+Encoding: 85 117 47
+GlifName: u
+Width: 608
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<270.5 329.5 270.5 337.5> 527 20<63 137 137 137 471 545 545 545>
+VStem: 63 74<252 547> 471 74<0 85 85 85 266 547 0 547>
+LayerCount: 2
+Fore
+SplineSet
+545 547 m 257
+ 545 0 l 257
+ 471 0 l 257
+ 471 85 l 257
+ 434 17 380 -13 295 -13 c 256
+ 213 -13 147 17 106 74 c 256
+ 77 114 63 171 63 252 c 258
+ 63 547 l 257
+ 137 547 l 257
+ 137 252 l 258
+ 137 196 146 152 163 124 c 256
+ 188 80 240 55 301 55 c 256
+ 358 55 407 80 438 123 c 256
+ 461 157 471 199 471 266 c 258
+ 471 547 l 257
+ 545 547 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I527
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I63
+sg7
+I74
+sa(dp12
+g6
+I471
+sg7
+I74
+sass."
+EndChar
+
+StartChar: v
+Encoding: 86 118 48
+GlifName: v
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 527 20<8 83 83 83 471 546 546 546>
+LayerCount: 2
+Fore
+SplineSet
+238 0 m 257
+ 8 547 l 257
+ 83 547 l 257
+ 275 87 l 257
+ 471 547 l 257
+ 546 547 l 257
+ 316 0 l 257
+ 238 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I527
+sg7
+I20
+sass."
+EndChar
+
+StartChar: w
+Encoding: 87 119 49
+GlifName: w
+Width: 831
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 527 20<7 81 81 81 752 824 824 824>
+LayerCount: 2
+Fore
+SplineSet
+216 0 m 257
+ 7 547 l 257
+ 81 547 l 257
+ 255 89 l 257
+ 384 480 l 257
+ 445 480 l 257
+ 574 89 l 257
+ 752 547 l 257
+ 824 547 l 257
+ 612 0 l 257
+ 533 0 l 257
+ 414 363 l 257
+ 296 0 l 257
+ 216 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I527
+sg7
+I20
+sass."
+EndChar
+
+StartChar: x
+Encoding: 88 120 50
+GlifName: x
+Width: 480
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 527 20<8 92 92 92 387 472 472 472>
+LayerCount: 2
+Fore
+SplineSet
+8 0 m 257
+ 198 279 l 257
+ 8 547 l 257
+ 92 547 l 257
+ 240 336 l 257
+ 387 547 l 257
+ 472 547 l 257
+ 281 279 l 257
+ 472 0 l 257
+ 387 0 l 257
+ 240 219 l 257
+ 92 0 l 257
+ 8 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I527
+sg7
+I20
+sass."
+EndChar
+
+StartChar: y
+Encoding: 89 121 51
+GlifName: y
+Width: 536
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -192 20 527 20<9 90 90 90 448 527 527 527>
+LayerCount: 2
+Fore
+SplineSet
+132 -192 m 257
+ 221 18 l 257
+ 9 547 l 257
+ 90 547 l 257
+ 263 111 l 257
+ 448 547 l 257
+ 527 547 l 257
+ 211 -192 l 257
+ 132 -192 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-192
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I527
+sg7
+I20
+sass."
+EndChar
+
+StartChar: z
+Encoding: 90 122 52
+GlifName: z
+Width: 425
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<10 10 97 415> 480 67<20 312 20 396>
+LayerCount: 2
+Fore
+SplineSet
+10 0 m 257
+ 10 67 l 257
+ 312 480 l 257
+ 20 480 l 257
+ 20 547 l 257
+ 396 547 l 257
+ 396 484 l 257
+ 97 67 l 257
+ 415 67 l 257
+ 415 0 l 257
+ 10 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I480
+sg7
+I67
+sass."
+EndChar
+
+StartChar: oslash
+Encoding: 125 248 53
+GlifName: oslash
+Width: 653
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 68<304 386 304 410.5> 492 68<269 348>
+VStem: 42 75<238.5 330 238.5 352> 536 75<214 309.5>
+LayerCount: 2
+Fore
+SplineSet
+73 1 m 257
+ 124 68 l 257
+ 64 138 42 193 42 272 c 256
+ 42 432 169 560 328 560 c 256
+ 382 560 429 547 474 519 c 257
+ 531 594 l 257
+ 584 552 l 257
+ 528 478 l 257
+ 584 427 611 362 611 281 c 256
+ 611 110 493 -13 328 -13 c 256
+ 274 -13 234 -2 178 28 c 257
+ 126 -39 l 257
+ 73 1 l 257
+166 121 m 257
+ 434 468 l 257
+ 402 484 367 492 329 492 c 256
+ 209 492 117 394 117 266 c 256
+ 117 211 131 170 166 121 c 257
+487 426 m 257
+ 218 79 l 257
+ 258 61 285 55 323 55 c 256
+ 449 55 536 148 536 280 c 256
+ 536 339 521 384 487 426 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I492
+sg7
+I68
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I42
+sg7
+I75
+sa(dp12
+g6
+I536
+sg7
+I75
+sass."
+EndChar
+
+StartChar: germandbls
+Encoding: 123 223 54
+GlifName: germandbls
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: -13 68<279 354 279 377.5> 343 65<265.5 285 224 325> 684 68<241 303.5>
+VStem: 59 74<0 109 203 481> 399 75<508 587> 449 75<157 242.5>
+LayerCount: 2
+Back
+SplineSet
+59 0 m 261
+ 59 481 l 262
+ 59 566 69 620 95 664 c 260
+ 126 718 191 752 263 752 c 260
+ 384 752 474 663 474 544 c 260
+ 474 472 447 424 389 389 c 261
+ 476 361 524 294 524 199 c 260
+ 524 78 436 -13 319 -13 c 260
+ 233 -13 170 28 133 109 c 261
+ 133 0 l 261
+ 59 0 l 261
+133 203 m 261
+ 184 203 l 261
+ 186 116 241 55 317 55 c 260
+ 391 55 449 117 449 197 c 260
+ 449 288 381 343 269 343 c 260
+ 262 343 257 343 224 341 c 261
+ 224 408 l 261
+ 233 408 l 262
+ 337 408 399 460 399 548 c 260
+ 399 626 342 684 265 684 c 260
+ 217 684 175 660 156 621 c 260
+ 139 587 133 552 133 481 c 262
+ 133 203 l 261
+EndSplineSet
+Fore
+SplineSet
+108 203 m 17
+ 184 203 l 257
+ 186 116 241 55 317 55 c 256
+ 391 55 449 117 449 197 c 256
+ 449 249.489814311 427.373778599 290.002029077 387.00000785 314.890326367 c 4
+ 357.378996061 333.150115675 317.666718178 343 269 343 c 258
+ 224 343 l 257
+ 224 408 l 257
+ 233 408 l 258
+ 337 408 399 460 399 548 c 256
+ 399 626 342 684 265 684 c 256
+ 217 684 175 660 156 621 c 256
+ 139 587 132.685749749 551.998609082 133 481 c 256
+ 133 0 l 257
+ 59 0 l 257
+ 59 481 l 258
+ 59 566 69 620 95 664 c 256
+ 126 718 191 752 263 752 c 256
+ 384 752 474 663 474 544 c 256
+ 474 472 447 424 389 389 c 257
+ 476 361 524 294 524 199 c 256
+ 524 78 436 -13 319 -13 c 256
+ 233.923313193 -13 170.557293218 29.2601880689 134.200705225 106.404936577 c 0
+ 108 162 108 203 108 203 c 17
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I68
+sa(dp8
+g6
+I343
+sg7
+I65
+sa(dp9
+g6
+I684
+sg7
+I68
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I59
+sg7
+I74
+sa(dp13
+g6
+I399
+sg7
+I75
+sa(dp14
+g6
+I449
+sg7
+I75
+sass."
+EndChar
+
+StartChar: fi
+Encoding: 157 64257 55
+GlifName: fi
+Width: 487
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: 0 20 480 67<13 98 13 98 172 308> 613 126<237.5 350 350 424>
+VStem: 98 74<0 480 0 480 0 547> 350 74<0 547 0 547 613 739>
+LayerCount: 2
+Fore
+Refer: 35 105 N 1 0 0 1 287 0 2
+Refer: 32 102 S 1 0 0 1 -3 0 2
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I480
+sg7
+I67
+sa(dp9
+g6
+I613
+sg7
+I126
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I98
+sg7
+I74
+sa(dp13
+g6
+I350
+sg7
+I74
+sass."
+EndChar
+
+StartChar: fl
+Encoding: 158 64258 56
+GlifName: fl
+Width: 485
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: 0 20 480 67<13 98 13 98 172 308> 719 20<237.5 308 348 422 422 422>
+VStem: 98 74<0 480 0 480 0 547> 348 74<0 739 0 739>
+LayerCount: 2
+Fore
+Refer: 38 108 N 1 0 0 1 285 0 2
+Refer: 32 102 N 1 0 0 1 -3 0 2
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I480
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I98
+sg7
+I74
+sa(dp13
+g6
+I348
+sg7
+I74
+sass."
+EndChar
+
+StartChar: one
+Encoding: 17 49 57
+GlifName: one
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 672 67<155 281 155 354>
+VStem: 281 73<0 672 672 672>
+LayerCount: 2
+Fore
+SplineSet
+281 0 m 257
+ 281 672 l 257
+ 155 672 l 257
+ 155 739 l 257
+ 354 739 l 257
+ 354 0 l 257
+ 281 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I672
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I281
+sg7
+I73
+sass."
+EndChar
+
+StartChar: two
+Encoding: 18 50 58
+GlifName: two
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<33 33 133 502> 685 67<221.5 318.5>
+VStem: 432 74<489.5 575.5>
+LayerCount: 2
+Fore
+SplineSet
+33 0 m 257
+ 33 67 l 257
+ 292 317 l 258
+ 370.799 392.217 432 448 432 531 c 256
+ 432 620 365 685 272 685 c 256
+ 169.818 685 112 614.188 112 500 c 257
+ 39 500 l 257
+ 39 552 42 573 55 608 c 256
+ 88 698 170 752 273 752 c 256
+ 408 752 506 657 506 527 c 256
+ 506 448 474 393 370 294 c 258
+ 133 67 l 257
+ 502 67 l 257
+ 502 0 l 257
+ 33 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I685
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I432
+sg7
+I74
+sass."
+EndChar
+
+StartChar: three
+Encoding: 19 51 59
+GlifName: three
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 67<242 315 242 337> 685 67<239.596 302>
+VStem: 381 74<545.322 602.5> 430 74<173 259>
+LayerCount: 2
+Fore
+SplineSet
+155 555 m 257
+ 82 555 l 257
+ 83.8907 612.193 101.211 661.181 132.495 696 c 256
+ 164.181 731.268 210.191 752 269 752 c 256
+ 378 752 455 675 455 565 c 256
+ 455 504 431 459 379 423 c 257
+ 462 381 504 313 504 224 c 256
+ 504 91 402 -13 272 -13 c 256
+ 184.387 -13 113.086 26.6063 71.7755 94 c 256
+ 48.6834 131.672 34.962 178.027 33 231 c 257
+ 106 231 l 257
+ 110 178 117 153 135 126 c 256
+ 166 80 214 54 270 54 c 256
+ 360 54 430 126 430 220 c 256
+ 430 298 379 364 305 382 c 256
+ 286.727 385.655 271 387.261 231 388 c 258
+ 219 388 l 257
+ 219 452 l 257
+ 257 452 295.263 452.014 325 468.146 c 256
+ 360.429 487.366 381 522.645 381 568 c 256
+ 381 637 335 685 269 685 c 256
+ 197 685 156 637 155 555 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I685
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I381
+sg7
+I74
+sa(dp12
+g6
+I430
+sg7
+I74
+sass."
+EndChar
+
+StartChar: four
+Encoding: 20 52 60
+GlifName: four
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 135 67<97 386 12 12 459 527> 719 20<372 459 459 459>
+VStem: 386 73<0 135 0 135 202 637 637 637>
+LayerCount: 2
+Fore
+SplineSet
+386 0 m 257
+ 386 135 l 257
+ 12 135 l 257
+ 12 202 l 257
+ 372 739 l 257
+ 459 739 l 257
+ 459 202 l 257
+ 527 202 l 257
+ 527 135 l 257
+ 459 135 l 257
+ 459 0 l 257
+ 386 0 l 257
+386 202 m 257
+ 386 637 l 257
+ 97 202 l 257
+ 386 202 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I135
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I386
+sg7
+I73
+sass."
+EndChar
+
+StartChar: five
+Encoding: 21 53 61
+GlifName: five
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 67<230.5 326.5 230.5 349.5> 436 67<261 327> 672 67<192 466 192 192>
+VStem: 454 74<192 300>
+LayerCount: 2
+Fore
+SplineSet
+67 375 m 257
+ 133 739 l 257
+ 466 739 l 257
+ 466 672 l 257
+ 192 672 l 257
+ 156 468 l 257
+ 201 493 239 503 283 503 c 256
+ 421 503 528 390 528 246 c 256
+ 528 101 419 -13 280 -13 c 256
+ 181 -13 94 43 51 134 c 256
+ 38 163 33 183 26 232 c 257
+ 98 232 l 257
+ 111 127 184 54 277 54 c 256
+ 376 54 454 138 454 246 c 256
+ 454 354 377 436 277 436 c 256
+ 219 436 169 409 124 353 c 257
+ 67 375 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I436
+sg7
+I67
+sa(dp9
+g6
+I672
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I454
+sg7
+I74
+sass."
+EndChar
+
+StartChar: six
+Encoding: 22 54 62
+GlifName: six
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 67<228 330.5 228 352> 436 67<278.5 329.5> 719 20<296 381 381 381>
+VStem: 25 74<192 280.5> 455 74<190.5 301>
+LayerCount: 2
+Fore
+SplineSet
+296 739 m 257
+ 381 739 l 257
+ 207 482 l 257
+ 240 497 263 503 294 503 c 256
+ 425 503 529 391 529 249 c 256
+ 529 98 424 -13 280 -13 c 256
+ 134 -13 25 97 25 244 c 256
+ 25 317 43 362 113 467 c 258
+ 296 739 l 257
+278 436 m 256
+ 177 436 99 354 99 248 c 256
+ 99 136 176 54 280 54 c 256
+ 381 54 455 135 455 246 c 256
+ 455 356 381 436 278 436 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I436
+sg7
+I67
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I25
+sg7
+I74
+sa(dp13
+g6
+I455
+sg7
+I74
+sass."
+EndChar
+
+StartChar: seven
+Encoding: 23 55 63
+GlifName: seven
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 672 67<64 414 64 490 64 490>
+LayerCount: 2
+Fore
+SplineSet
+110 0 m 257
+ 414 672 l 257
+ 64 672 l 257
+ 64 739 l 257
+ 490 739 l 257
+ 490 672 l 257
+ 188 0 l 257
+ 110 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I672
+sg7
+I67
+sass."
+EndChar
+
+StartChar: eight
+Encoding: 24 56 64
+GlifName: eight
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 67<231 325.5 231 347.5> 375 69<244.5 314.5 244.5 324.5> 685 67<241.5 312.5>
+VStem: 42 74<168.5 259.5> 81 74<531.5 601.5 531.5 615.5> 399 74<530.5 600> 438 74<169 262.5>
+LayerCount: 2
+Fore
+SplineSet
+167 413 m 257
+ 115.616 443.83 81 488.136 81 561 c 256
+ 81 670 166 752 278 752 c 256
+ 391 752 473 672 473 561 c 256
+ 473 488 445 441 385 413 c 257
+ 467 377 512 309 512 218 c 256
+ 512 84 415 -13 280 -13 c 256
+ 144 -13 42 85 42 215 c 256
+ 42 304 86 374 167 413 c 257
+278 375 m 256
+ 183 375 116 309 116 216 c 256
+ 116 121 183 54 279 54 c 256
+ 372 54 438 122 438 216 c 256
+ 438 309 371 375 278 375 c 256
+277 685 m 256
+ 206 685 155 636 155 567 c 256
+ 155 496 208 444 281 444 c 256
+ 348 444 399 496 399 565 c 256
+ 399 635 348 685 277 685 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I375
+sg7
+I69
+sa(dp9
+g6
+I685
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I42
+sg7
+I74
+sa(dp13
+g6
+I81
+sg7
+I74
+sa(dp14
+g6
+I399
+sg7
+I74
+sa(dp15
+g6
+I438
+sg7
+I74
+sass."
+EndChar
+
+StartChar: nine
+Encoding: 25 57 65
+GlifName: nine
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 236 67<224.5 275.5> 685 67<223.5 326>
+VStem: 25 74<438 549 438 565.5> 455 74<458.5 547>
+LayerCount: 2
+Fore
+SplineSet
+258 0 m 257
+ 173 0 l 257
+ 347 257 l 257
+ 314 242 291 236 260 236 c 256
+ 129 236 25 348 25 490 c 256
+ 25 641 130 752 274 752 c 256
+ 420 752 529 642 529 495 c 256
+ 529 422 511 377 441 272 c 258
+ 258 0 l 257
+274 685 m 256
+ 173 685 99 605 99 493 c 256
+ 99 383 173 303 276 303 c 256
+ 377 303 455 385 455 491 c 256
+ 455 603 378 685 274 685 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I236
+sg7
+I67
+sa(dp9
+g6
+I685
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I25
+sg7
+I74
+sa(dp13
+g6
+I455
+sg7
+I74
+sass."
+EndChar
+
+StartChar: zero
+Encoding: 16 48 66
+GlifName: zero
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 67<248.5 314 248.5 327.5> 685 67<245.5 307>
+VStem: 30 73<269 281 281 462> 452 73<281 462 462 479>
+LayerCount: 2
+Fore
+SplineSet
+525 479 m 258
+ 525 269 l 258
+ 525 186 510 122 481 79 c 256
+ 439 18 372 -13 283 -13 c 256
+ 184 -13 109 25 66 98 c 256
+ 42 139 30 195 30 269 c 258
+ 30 479 l 258
+ 30 566 46 623 83 669 c 256
+ 126 723 194 752 277 752 c 256
+ 365 752 438 717 482 653 c 256
+ 514 608 525 563 525 479 c 258
+452 281 m 258
+ 452 462 l 258
+ 452 543 443 585 418 619 c 256
+ 387 661 336 685 278 685 c 256
+ 213 685 158 656 129 607 c 256
+ 111 576 103 531 103 462 c 258
+ 103 281 l 258
+ 103 205 113 157 136 124 c 256
+ 167 78 217 54 280 54 c 256
+ 348 54 402 83 428 134 c 256
+ 444 165 452 216 452 281 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I685
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I30
+sg7
+I73
+sa(dp12
+g6
+I452
+sg7
+I73
+sass."
+EndChar
+
+StartChar: sterling
+Encoding: 97 163 67
+GlifName: sterling
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 67<59 198 59 198 285 342 342 344> 347 67<18 93 18 144 18 93 242 242 242 457> 685 67<259 353>
+VStem: 71 74<495 564 494.5 582> 240 74<165.5 212.5 165.5 214> 518 74<197.5 223 179.5 226>
+LayerCount: 2
+Fore
+SplineSet
+59 0 m 257
+ 59 67 l 257
+ 198 67 l 257
+ 226 98 240 136 240 183 c 256
+ 240 245 220 279 144 347 c 257
+ 18 347 l 257
+ 18 414 l 257
+ 93 414 l 257
+ 76 455 71 478 71 512 c 256
+ 71 652 170 752 306 752 c 256
+ 440 752 540 666 554 541 c 257
+ 485 541 l 257
+ 465 631 399 685 307 685 c 256
+ 211 685 145 615 145 513 c 256
+ 145 476 151 455 173 414 c 257
+ 457 414 l 257
+ 457 347 l 257
+ 242 347 l 257
+ 290 296 314 241 314 184 c 256
+ 314 147 306 115 285 67 c 257
+ 342 67 l 258
+ 402 67 443 79 470 104 c 256
+ 499 130 518 176 518 219 c 256
+ 518 233 517 243 512 268 c 257
+ 584 268 l 257
+ 590 245 592 233 592 213 c 256
+ 592 146 563 83 515 46 c 256
+ 475 15 420 0 344 0 c 258
+ 59 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I347
+sg7
+I67
+sa(dp9
+g6
+I685
+sg7
+I67
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I71
+sg7
+I74
+sa(dp13
+g6
+I240
+sg7
+I74
+sa(dp14
+g6
+I518
+sg7
+I74
+sass."
+EndChar
+
+StartChar: dollar
+Encoding: 4 36 68
+GlifName: dollar
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -56 146 665 145
+VStem: 100 74 245 66<-56 53 -56 53 714 810> 405 74
+LayerCount: 2
+Fore
+SplineSet
+245 -56 m 257
+ 245 53 l 257
+ 311 53 l 257
+ 311 -56 l 257
+ 245 -56 l 257
+245 810 m 257
+ 311 810 l 257
+ 311 714 l 257
+ 245 714 l 257
+ 245 810 l 257
+72.5098 228.268 m 257
+ 143.808 228.268 l 257
+ 152.683 143.864 197.994 90.457 279.793 90.457 c 256
+ 355.603 90.457 405.558 144.301 405.558 223.603 c 256
+ 405.558 265.586 395.312 301.038 365.53 322.497 c 256
+ 343.87 338.357 305.226 352.171 252.645 368.212 c 256
+ 206.399 382.32 169.981 401.41 144.455 428 c 256
+ 116.085 457.552 101.17 496.368 101.17 547.902 c 256
+ 101.17 651.69 178.785 730.5 286.183 730.5 c 256
+ 395.385 730.5 470.293 655.3 473 547 c 257
+ 403.508 547 l 257
+ 398.995 619.2 352.065 666.13 284.378 666.13 c 256
+ 217.593 666.13 172.857 616.492 172.857 549.707 c 256
+ 172.857 519.022 181.492 489.24 200.445 472.093 c 256
+ 218.495 456.75 228.35 448.446 288.817 429.787 c 256
+ 357.407 408.329 385.385 395.267 412.46 374.742 c 256
+ 454.878 342.089 479.245 287.978 479.245 227.335 c 256
+ 479.245 109.781 393.508 26.0176 277.987 26.0176 c 256
+ 209.968 26.0176 154.12 49.0811 117.343 94.251 c 256
+ 89.2197 128.79 75.2471 174.5 72.5098 228.268 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-56
+sVwidth
+p7
+I146
+sa(dp8
+g6
+I665
+sg7
+I145
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I100
+sg7
+I74
+sa(dp12
+g6
+I245
+sg7
+I66
+sa(dp13
+g6
+I405
+sg7
+I74
+sass."
+EndChar
+
+StartChar: cent
+Encoding: 96 162 69
+GlifName: cent
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 62 155<259 309.5 236.5 325 259 259> 547 160<259 314.5>
+VStem: 45 74<350.684 417.832> 259 66<62 152 614 707>
+LayerCount: 2
+Fore
+SplineSet
+325 62 m 257
+ 259 62 l 257
+ 259 152 l 257
+ 198.632 156.417 145.973 182.273 107.996 222 c 256
+ 68.5954 263.218 45 319.368 45 382 c 256
+ 45 453.663 73.5948 515.137 121.928 557 c 256
+ 157.902 588.158 204.809 608.453 259 614 c 257
+ 259 707 l 257
+ 325 707 l 257
+ 325 614 l 257
+ 411 602 480 545 509 463 c 257
+ 426 463 l 257
+ 395 518 346 547 283 547 c 256
+ 189 547 119 477 119 383 c 256
+ 119 290 191 217 282 217 c 256
+ 337 217 377 238 422 290 c 257
+ 503 290 l 257
+ 476 217 405 162 325 152 c 257
+ 325 62 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I62
+sVwidth
+p7
+I155
+sa(dp8
+g6
+I547
+sg7
+I160
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I45
+sg7
+I74
+sa(dp12
+g6
+I259
+sg7
+I66
+sass."
+EndChar
+
+StartChar: florin
+Encoding: 126 402 70
+GlifName: florin
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -153 67<71.5 106> 517 67<211 311 198 322 392 492 211 380> 729 20<535 535> 751 67<502 516.5>
+LayerCount: 2
+Fore
+SplineSet
+392 584 m 257
+ 504 584 l 257
+ 492 517 l 257
+ 380 517 l 257
+ 300 86 l 258
+ 279 -29 264 -66 225 -101 c 256
+ 187 -135 136 -153 76 -153 c 256
+ 52 -153 35 -151 18 -146 c 257
+ 30 -82 l 257
+ 53 -85 65 -86 78 -86 c 256
+ 171 -86 204 -48 231 92 c 258
+ 311 517 l 257
+ 198 517 l 257
+ 211 584 l 257
+ 322 584 l 257
+ 326 607 l 258
+ 341 684 363 733 400 768 c 256
+ 431 798 477 818 517 818 c 256
+ 525 818 532 817 546 815 c 257
+ 535 749 l 257
+ 524 751 520 751 513 751 c 256
+ 491 751 466 741 449 725 c 256
+ 426 704 407 662 396 607 c 258
+ 392 584 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-153
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I517
+sg7
+I67
+sa(dp9
+g6
+I729
+sg7
+I20
+sa(dp10
+g6
+I751
+sg7
+I67
+sass."
+EndChar
+
+StartChar: yen
+Encoding: 99 165 71
+GlifName: yen
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 237 67<50 233 50 260 50 233 359 539> 396 67<43 148 43 184 43 148 443 546> 719 20<0 76 76 76 513 589 589 589>
+VStem: 260 73<0 237 0 237>
+LayerCount: 2
+Fore
+SplineSet
+260 0 m 257
+ 260 237 l 257
+ 50 237 l 257
+ 50 304 l 257
+ 233 304 l 257
+ 184 396 l 257
+ 43 396 l 257
+ 43 463 l 257
+ 148 463 l 257
+ 0 739 l 257
+ 76 739 l 257
+ 297 327 l 257
+ 513 739 l 257
+ 589 739 l 257
+ 443 463 l 257
+ 546 463 l 257
+ 546 396 l 257
+ 407 396 l 257
+ 359 304 l 257
+ 539 304 l 257
+ 539 237 l 257
+ 333 237 l 257
+ 333 0 l 257
+ 260 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I237
+sg7
+I67
+sa(dp9
+g6
+I396
+sg7
+I67
+sa(dp10
+g6
+I719
+sg7
+I20
+sasVvhints
+p11
+(lp12
+(dp13
+g6
+I260
+sg7
+I73
+sass."
+EndChar
+
+StartChar: onesuperior
+Encoding: 118 185 72
+GlifName: onesuperior
+Width: 332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 684 55<98 173 98 233>
+VStem: 173 60<288 684 684 684>
+LayerCount: 2
+Fore
+SplineSet
+173 288 m 257
+ 173 684 l 257
+ 98 684 l 257
+ 98 739 l 257
+ 233 739 l 257
+ 233 288 l 257
+ 173 288 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I684
+sVwidth
+p7
+I55
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I173
+sg7
+I60
+sass."
+EndChar
+
+StartChar: twosuperior
+Encoding: 111 178 73
+GlifName: twosuperior
+Width: 332
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: 288 55<101 318 101 318> 692 55<151.5 193>
+VStem: 259 61<597 630.5>
+LayerCount: 2
+Back
+SplineSet
+12 288 m 261
+ 12 339 l 261
+ 175 489 l 262
+ 216 526 216 526 229 541 c 260
+ 249 564 259 586 259 608 c 260
+ 259 653 218 692 168 692 c 260
+ 135 692 104 674 88 647 c 260
+ 79 632 76 616 76 588 c 262
+ 76 583 l 261
+ 16 583 l 261
+ 17 627 18 634 27 657 c 260
+ 50 712 105 747 171 747 c 260
+ 254 747 320 684 320 606 c 260
+ 320 559 297 521 234 464 c 262
+ 101 343 l 261
+ 318 343 l 261
+ 318 288 l 261
+ 12 288 l 261
+EndSplineSet
+Fore
+SplineSet
+12 288 m 257
+ 12 339 l 257
+ 175 489 l 258
+ 221.938822569 531.359425246 259 564 259 608 c 256
+ 259 653 218 692 168 692 c 256
+ 120 692 75 660 75 583 c 257
+ 16 583 l 257
+ 17 627 18 634 27 657 c 256
+ 50 712 105 747 171 747 c 256
+ 254 747 320 684 320 606 c 256
+ 320 559 297 521 234 464 c 258
+ 101 343 l 257
+ 318 343 l 257
+ 318 288 l 257
+ 12 288 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I288
+sVwidth
+p7
+I55
+sa(dp8
+g6
+I692
+sg7
+I55
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I259
+sg7
+I61
+sass."
+EndChar
+
+StartChar: threesuperior
+Encoding: 112 179 74
+GlifName: threesuperior
+Width: 332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 280 55<151 190 151 207.5> 692 55<145.923 184>
+VStem: 229 61<611 648.5> 258 61<401 445.5>
+LayerCount: 2
+Fore
+SplineSet
+104 615 m 257
+ 43 615 l 257
+ 44 695 93 747 167 747 c 256
+ 236 747 290 695 290 628 c 256
+ 290 594 280 574 249 546 c 257
+ 296 517 319 476 319 427 c 256
+ 319 347 249 280 166 280 c 256
+ 112 280 62 308 35 352 c 256
+ 20 376 15 398 13 439 c 257
+ 74 439 l 257
+ 76 402 79 391 91 374 c 256
+ 109 350 137 335 165 335 c 256
+ 215 335 258 377 258 425 c 256
+ 258 466 228 504 187 513 c 256
+ 175 516 161 517 128 517 c 257
+ 128 570 l 257
+ 180.488 569.791 229 581.268 229 631 c 256
+ 229 666 202 692 166 692 c 256
+ 125.845 692 104 662.746 104 615 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I280
+sVwidth
+p7
+I55
+sa(dp8
+g6
+I692
+sg7
+I55
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I229
+sg7
+I61
+sa(dp12
+g6
+I258
+sg7
+I61
+sass."
+EndChar
+
+StartChar: period
+Encoding: 14 46 75
+GlifName: period
+Width: 277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 126<101 175 101 175>
+VStem: 101 74<0 126 0 126>
+LayerCount: 2
+Fore
+SplineSet
+101 0 m 257
+ 101 126 l 257
+ 175 126 l 257
+ 175 0 l 257
+ 101 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I126
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I101
+sg7
+I74
+sass."
+EndChar
+
+StartChar: colon
+Encoding: 26 58 76
+GlifName: colon
+Width: 277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 126<101 175 101 175> 381 126<101 175 101 175>
+VStem: 101 74<0 126 0 126 381 507>
+LayerCount: 2
+Fore
+SplineSet
+101 0 m 257
+ 101 126 l 257
+ 175 126 l 257
+ 175 0 l 257
+ 101 0 l 257
+101 381 m 257
+ 101 507 l 257
+ 175 507 l 257
+ 175 381 l 257
+ 101 381 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I126
+sa(dp8
+g6
+I381
+sg7
+I126
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I101
+sg7
+I74
+sass."
+EndChar
+
+StartChar: periodcentered
+Encoding: 116 183 77
+GlifName: periodcentered
+Width: 277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 229 126<101 175 101 175>
+VStem: 101 74<229 355 229 355>
+LayerCount: 2
+Fore
+SplineSet
+101 229 m 257
+ 101 355 l 257
+ 175 355 l 257
+ 175 229 l 257
+ 101 229 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I229
+sVwidth
+p7
+I126
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I101
+sg7
+I74
+sass."
+EndChar
+
+StartChar: ellipsis
+Encoding: 146 8230 78
+GlifName: ellipsis
+Width: 1000
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 126<130 204 130 204 463 537 796 870>
+VStem: 130 74<0 126 0 126> 463 74<0 126 0 126> 796 74<0 126 0 126>
+LayerCount: 2
+Fore
+SplineSet
+130 0 m 257
+ 130 126 l 257
+ 204 126 l 257
+ 204 0 l 257
+ 130 0 l 257
+463 0 m 257
+ 463 126 l 257
+ 537 126 l 257
+ 537 0 l 257
+ 463 0 l 257
+796 0 m 257
+ 796 126 l 257
+ 870 126 l 257
+ 870 0 l 257
+ 796 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I126
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I130
+sg7
+I74
+sa(dp11
+g6
+I463
+sg7
+I74
+sa(dp12
+g6
+I796
+sg7
+I74
+sass."
+EndChar
+
+StartChar: comma
+Encoding: 12 44 79
+GlifName: comma
+Width: 277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+91 -67 m 257
+ 179 126 l 257
+ 253 126 l 257
+ 165 -67 l 257
+ 91 -67 l 257
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 27 59 80
+GlifName: semicolon
+Width: 277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 381 126<125 199 125 199>
+VStem: 125 74<381 507 381 507>
+LayerCount: 2
+Fore
+SplineSet
+41 -67 m 257
+ 129 126 l 257
+ 203 126 l 257
+ 115 -67 l 257
+ 41 -67 l 257
+125 381 m 257
+ 125 507 l 257
+ 199 507 l 257
+ 199 381 l 257
+ 125 381 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I381
+sVwidth
+p7
+I126
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I125
+sg7
+I74
+sass."
+EndChar
+
+StartChar: quoteleft
+Encoding: 137 8216 81
+GlifName: quoteleft
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<98 172 172 172>
+LayerCount: 2
+Fore
+SplineSet
+260 547 m 257
+ 186 547 l 257
+ 98 739 l 257
+ 172 739 l 257
+ 260 547 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: quotedblright
+Encoding: 141 8221 82
+GlifName: quotedblright
+Width: 484
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<175 249 249 249 319 393 393 393>
+LayerCount: 2
+Fore
+SplineSet
+87 547 m 257
+ 175 739 l 257
+ 249 739 l 257
+ 161 547 l 257
+ 87 547 l 257
+231 547 m 257
+ 319 739 l 257
+ 393 739 l 257
+ 305 547 l 257
+ 231 547 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: quotedblleft
+Encoding: 140 8220 83
+GlifName: quotedblleft
+Width: 502
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<96 170 170 170 244 318 318 318>
+LayerCount: 2
+Fore
+SplineSet
+406 547 m 257
+ 332 547 l 257
+ 244 739 l 257
+ 318 739 l 257
+ 406 547 l 257
+258 547 m 257
+ 184 547 l 257
+ 96 739 l 257
+ 170 739 l 257
+ 258 547 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: quotedblbase
+Encoding: 142 8222 84
+GlifName: quotedblbase
+Width: 502
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+89 -67 m 257
+ 177 126 l 257
+ 251 126 l 257
+ 163 -67 l 257
+ 89 -67 l 257
+236 -67 m 257
+ 324 126 l 257
+ 398 126 l 257
+ 310 -67 l 257
+ 236 -67 l 257
+EndSplineSet
+EndChar
+
+StartChar: exclam
+Encoding: 1 33 85
+GlifName: exclam
+Width: 295
+VWidth: 0
+GlyphClass: 2
+Flags: HWO
+HStem: 0 126<111 185 111 185> 719 20<111 185 185 185>
+VStem: 111 74<0 126 0 126 197 739>
+LayerCount: 2
+Fore
+SplineSet
+111 197 m 261
+ 111 739 l 257
+ 185 739 l 257
+ 185 197 l 257
+ 111 197 l 261
+111 0 m 257
+ 111 126 l 257
+ 185 126 l 257
+ 185 0 l 257
+ 111 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I126
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I111
+sg7
+I74
+sass."
+EndChar
+
+StartChar: exclamdown
+Encoding: 95 161 86
+GlifName: exclamdown
+Width: 295
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -192 20 421 126<111 185 111 185>
+VStem: 111 74<-192 352 -192 352 421 547>
+LayerCount: 2
+Fore
+SplineSet
+111 -192 m 257
+ 111 352 l 257
+ 185 352 l 257
+ 185 -192 l 257
+ 111 -192 l 257
+111 421 m 257
+ 111 547 l 257
+ 185 547 l 257
+ 185 421 l 257
+ 111 421 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-192
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I421
+sg7
+I126
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I111
+sg7
+I74
+sass."
+EndChar
+
+StartChar: question
+Encoding: 31 63 87
+GlifName: question
+Width: 591
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 126<261 335 261 335> 685 67<269 343>
+VStem: 261 74<0 126 0 126> 451 74<512.5 580>
+LayerCount: 2
+Fore
+SplineSet
+261 0 m 257
+ 261 126 l 257
+ 335 126 l 257
+ 335 0 l 257
+ 261 0 l 257
+135 508 m 257
+ 65 508 l 257
+ 67 573 76 609 101 649 c 256
+ 143 715 214 752 299 752 c 256
+ 430 752 525 661 525 535 c 256
+ 525 470 501 425 435 365 c 256
+ 361 300 334 256 333 193 c 257
+ 263 193 l 257
+ 264 275 291 327 367 397 c 256
+ 435 461 451 488 451 537 c 256
+ 451 623 387 685 299 685 c 256
+ 239 685 186 656 159 608 c 256
+ 145 583 139 557 135 508 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I126
+sa(dp8
+g6
+I685
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I261
+sg7
+I74
+sa(dp12
+g6
+I451
+sg7
+I74
+sass."
+EndChar
+
+StartChar: questiondown
+Encoding: 121 191 88
+GlifName: questiondown
+Width: 591
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -205 67 421 126
+VStem: 66 74 256 74
+LayerCount: 2
+Fore
+Refer: 87 63 N -1 0 0 -1 591 547 2
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-205
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I421
+sg7
+I126
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I66
+sg7
+I74
+sa(dp12
+g6
+I256
+sg7
+I74
+sass."
+EndChar
+
+StartChar: guillemotright
+Encoding: 120 187 89
+GlifName: guillemotright
+Width: 425
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 90 171 N -1 0 0 1 425 0 2
+EndChar
+
+StartChar: guillemotleft
+Encoding: 105 171 90
+GlifName: guillemotleft
+Width: 425
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+326 99 m 257
+ 211 300 l 257
+ 211 300 l 257
+ 326 499 l 257
+ 385 467 l 257
+ 291 300 l 257
+ 385 132 l 257
+ 326 99 l 257
+153 99 m 257
+ 40 300 l 257
+ 40 300 l 257
+ 153 499 l 257
+ 212 467 l 257
+ 118 300 l 257
+ 212 132 l 257
+ 153 99 l 257
+EndSplineSet
+EndChar
+
+StartChar: guilsinglright
+Encoding: 149 8250 91
+GlifName: guilsinglright
+Width: 251
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 92 8249 N -1 0 0 1 251 0 2
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 148 8249 92
+GlifName: guilsinglleft
+Width: 251
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+152 99 m 257
+ 40 300 l 257
+ 40 300 l 257
+ 152 499 l 257
+ 211 467 l 257
+ 118 300 l 257
+ 211 132 l 257
+ 152 99 l 257
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 15 47 93
+GlifName: slash
+Width: 437
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<327 397 397 397>
+LayerCount: 2
+Fore
+SplineSet
+40 -128 m 257
+ 327 739 l 257
+ 397 739 l 257
+ 107 -128 l 257
+ 40 -128 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: hyphen
+Encoding: 13 45 94
+GlifName: hyphen
+Width: 332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 233 63<31 302 31 302>
+LayerCount: 2
+Fore
+SplineSet
+31 296 m 257
+ 302 296 l 257
+ 302 233 l 257
+ 31 233 l 257
+ 31 296 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I233
+sVwidth
+p7
+I63
+sass."
+EndChar
+
+StartChar: endash
+Encoding: 135 8211 95
+GlifName: endash
+Width: 500
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 233 63<0 500 0 500>
+LayerCount: 2
+Fore
+SplineSet
+0 296 m 257
+ 500 296 l 257
+ 500 233 l 257
+ 0 233 l 257
+ 0 296 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I233
+sVwidth
+p7
+I63
+sass."
+EndChar
+
+StartChar: emdash
+Encoding: 136 8212 96
+GlifName: emdash
+Width: 1000
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 233 63<0 1000 0 1000>
+LayerCount: 2
+Fore
+SplineSet
+0 296 m 257
+ 1000 296 l 257
+ 1000 233 l 257
+ 0 233 l 257
+ 0 296 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I233
+sVwidth
+p7
+I63
+sass."
+EndChar
+
+StartChar: parenleft
+Encoding: 8 40 97
+GlifName: parenleft
+Width: 369
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<335 335>
+VStem: 57 74<220.928 396.762 220.928 401.096>
+LayerCount: 2
+Fore
+SplineSet
+335 739 m 257
+ 335 676 l 257
+ 235 626 131 484.523 131 309 c 256
+ 131 132.856 236.098 -9.60705 335 -60 c 257
+ 335 -125 l 257
+ 173.579 -65.6087 57 115.461 57 309 c 256
+ 57 493.193 171.705 682.691 335 739 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I57
+sg7
+I74
+sass."
+EndChar
+
+StartChar: parenright
+Encoding: 9 41 98
+GlifName: parenright
+Width: 369
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20
+VStem: 238 74
+LayerCount: 2
+Fore
+Refer: 97 40 N -1 0 0 1 369 0 2
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I238
+sg7
+I74
+sass."
+EndChar
+
+StartChar: bracketleft
+Encoding: 59 91 99
+GlifName: bracketleft
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<313 313>
+VStem: 112 70<164 177 177 448>
+LayerCount: 2
+Fore
+SplineSet
+313 739 m 257
+ 313 664 l 257
+ 215 621 182 566 182 448 c 258
+ 182 177 l 258
+ 182 49 214 -6 313 -50 c 257
+ 313 -125 l 257
+ 258 -109 216 -83 178 -43 c 256
+ 131 9 112 68 112 164 c 258
+ 112 462 l 258
+ 112 549 135 612 185 664 c 256
+ 223 703 261 725 313 739 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I112
+sg7
+I70
+sass."
+EndChar
+
+StartChar: bracketright
+Encoding: 61 93 100
+GlifName: bracketright
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<38 38>
+VStem: 169 70<166 438 438 450>
+LayerCount: 2
+Fore
+SplineSet
+38 664 m 257
+ 38 739 l 257
+ 93 723 135 698 173 657 c 256
+ 220 605 239 547 239 450 c 258
+ 239 153 l 258
+ 239 65 216 2 166 -50 c 256
+ 128 -89 90 -111 38 -125 c 257
+ 38 -50 l 257
+ 136 -6 169 48 169 166 c 258
+ 169 438 l 258
+ 169 565 137 620 38 664 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I169
+sg7
+I70
+sass."
+EndChar
+
+StartChar: ampersand
+Encoding: 6 38 101
+GlifName: ampersand
+Width: 757
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 67<242 320.5 242 339> 685 67<293 352>
+VStem: 57 73<163 242 163 269.291> 145 74<571 616.5 571 634> 428 70<563 616>
+LayerCount: 2
+Fore
+SplineSet
+602 481 m 257
+ 684 481 l 257
+ 548 220 l 257
+ 735 38 l 257
+ 684 -13 l 257
+ 513 153 l 257
+ 455 37 388 -13 290 -13 c 256
+ 159.207 -13 57 84.9844 57 213 c 256
+ 57 325.581 136.57 386.734 227 433 c 257
+ 165 498 145 537 145 588 c 256
+ 145 680 223 752 320 752 c 256
+ 422 752 498 680 498 583 c 256
+ 498 529 477 489 431 455 c 256
+ 415 443 399 434 354 411 c 257
+ 494 273 l 257
+ 602 481 l 257
+300 464 m 257
+ 389 498 428 537 428 589 c 256
+ 428 643 382 685 322 685 c 256
+ 264 685 219 643 219 590 c 256
+ 219 552 242 517 300 464 c 257
+458 206 m 257
+ 280 380 l 257
+ 171 327 130 279 130 205 c 256
+ 130 121 199 54 285 54 c 256
+ 356 54 404 96 458 206 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I685
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I57
+sg7
+I73
+sa(dp12
+g6
+I145
+sg7
+I74
+sa(dp13
+g6
+I428
+sg7
+I70
+sass."
+EndChar
+
+StartChar: section
+Encoding: 101 167 102
+GlifName: section
+Width: 615
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -141 67<274 347 274 366.5> 685 67<276.5 336.5>
+VStem: 87 68<334.5 370 334.5 370> 135 68<572.5 618.5 572.5 636> 433 68<4 55> 461 68<262 298.5>
+LayerCount: 2
+Fore
+SplineSet
+483 606 m 257
+ 412 606 l 257
+ 401 658 366 685 307 685 c 256
+ 246 685 203 646 203 591 c 256
+ 203 554 224 524 262 505 c 258
+ 420 431 l 258
+ 493 396 529 350 529 289 c 256
+ 529 234 502 182 453 146 c 257
+ 486 111 501 78 501 37 c 256
+ 501 -65 420 -141 313 -141 c 256
+ 196 -141 110 -56 106 64 c 257
+ 174 64 l 257
+ 180 -19 235 -74 313 -74 c 256
+ 381 -74 433 -27 433 35 c 256
+ 433 75 406 104 339 137 c 258
+ 196 207 l 258
+ 114 248 87 280 87 339 c 256
+ 87 401 115 450 173 491 c 257
+ 146 520 135 548 135 589 c 256
+ 135 683 208 752 307 752 c 256
+ 404 752 476 692 483 606 c 257
+400 365 m 258
+ 212 454 l 257
+ 177 430 155 390 155 350 c 256
+ 155 319 173 296 209 278 c 258
+ 407 182 l 257
+ 440 206 461 244 461 280 c 256
+ 461 317 441 346 400 365 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-141
+sVwidth
+p7
+I67
+sa(dp8
+g6
+I685
+sg7
+I67
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I87
+sg7
+I68
+sa(dp12
+g6
+I135
+sg7
+I68
+sa(dp13
+g6
+I433
+sg7
+I68
+sa(dp14
+g6
+I461
+sg7
+I68
+sass."
+EndChar
+
+StartChar: dagger
+Encoding: 143 8224 103
+GlifName: dagger
+Width: 553
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 470 66<59 237 59 237 311 494> 719 20<237 311 311 311>
+VStem: 237 74<-133 470 -133 470 536 739>
+LayerCount: 2
+Fore
+SplineSet
+311 739 m 257
+ 311 536 l 257
+ 494 536 l 257
+ 494 470 l 257
+ 311 470 l 257
+ 311 -133 l 257
+ 237 -133 l 257
+ 237 470 l 257
+ 59 470 l 257
+ 59 536 l 257
+ 237 536 l 257
+ 237 739 l 257
+ 311 739 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I470
+sVwidth
+p7
+I66
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I237
+sg7
+I74
+sass."
+EndChar
+
+StartChar: daggerdbl
+Encoding: 144 8225 104
+GlifName: daggerdbl
+Width: 553
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 331 70<59 238 59 238 312 494> 493 70<59 238 59 238 312 494> 719 20<238 312 312 312>
+VStem: 238 74<-133 331 -133 331 401 493 563 739>
+LayerCount: 2
+Fore
+SplineSet
+312 739 m 257
+ 312 563 l 257
+ 494 563 l 257
+ 494 493 l 257
+ 312 493 l 257
+ 312 401 l 257
+ 494 401 l 257
+ 494 331 l 257
+ 312 331 l 257
+ 312 -133 l 257
+ 238 -133 l 257
+ 238 331 l 257
+ 59 331 l 257
+ 59 401 l 257
+ 238 401 l 257
+ 238 493 l 257
+ 59 493 l 257
+ 59 563 l 257
+ 238 563 l 257
+ 238 739 l 257
+ 312 739 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I331
+sVwidth
+p7
+I70
+sa(dp8
+g6
+I493
+sg7
+I70
+sa(dp9
+g6
+I719
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I238
+sg7
+I74
+sass."
+EndChar
+
+StartChar: asterisk
+Encoding: 10 42 105
+GlifName: asterisk
+Width: 425
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 539 20<213 213> 732 20<162 162 267 267>
+LayerCount: 2
+Fore
+SplineSet
+267 752 m 257
+ 314 724 l 257
+ 257 632 l 257
+ 360 635 l 257
+ 360 583 l 257
+ 258 585 l 257
+ 313 495 l 257
+ 266 468 l 257
+ 213 559 l 257
+ 160 468 l 257
+ 112 496 l 257
+ 169 585 l 257
+ 64 583 l 257
+ 64 635 l 257
+ 169 632 l 257
+ 113 724 l 257
+ 162 752 l 257
+ 215 662 l 257
+ 267 752 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I539
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I732
+sg7
+I20
+sass."
+EndChar
+
+StartChar: quotesingle
+Encoding: 7 39 106
+GlifName: quotesingle
+Width: 198
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 513 226<74 124 74 124>
+VStem: 74 50<513 739>
+LayerCount: 2
+Fore
+SplineSet
+124 513 m 257
+ 74 513 l 257
+ 74 739 l 257
+ 124 739 l 257
+ 124 513 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I513
+sVwidth
+p7
+I226
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I74
+sg7
+I50
+sass."
+EndChar
+
+StartChar: quotedbl
+Encoding: 2 34 107
+GlifName: quotedbl
+Width: 309
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 513 226<74 124 74 124 187 237 74 187>
+VStem: 74 50<513 739> 187 50<513 739>
+LayerCount: 2
+Fore
+SplineSet
+237 513 m 257
+ 187 513 l 257
+ 187 739 l 257
+ 237 739 l 257
+ 237 513 l 257
+124 513 m 257
+ 74 513 l 257
+ 74 739 l 257
+ 124 739 l 257
+ 124 513 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I513
+sVwidth
+p7
+I226
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I74
+sg7
+I50
+sa(dp11
+g6
+I187
+sg7
+I50
+sass."
+EndChar
+
+StartChar: at
+Encoding: 32 64 108
+GlifName: at
+Width: 867
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 50<361 498.5 361 505> 139 52<567 587> 144 58<325.5 380.5> 539 54<431.837 493.084 401 512.343> 701 51<361.5 496 347 536>
+VStem: 71 52<276 459.5 276 473.5> 219 72 747 50<398 480 387.5 509.5>
+LayerCount: 2
+Fore
+SplineSet
+656 574 m 257
+ 563 296 l 258
+ 543 235 543 234 543 219 c 256
+ 543 203 557 191 577 191 c 256
+ 602 191 637 210 666 240 c 256
+ 718 291 747 362 747 434 c 256
+ 747 585 620 701 452 701 c 256
+ 271 701 123 551 123 368 c 256
+ 123 184 269 37 453 37 c 256
+ 544 37 624 72 687 138 c 257
+ 727 105 l 257
+ 665 32 559 -13 451 -13 c 256
+ 239 -13 71 155 71 367 c 256
+ 71 580 241 752 453 752 c 256
+ 539 752 626 721 689 667 c 256
+ 760 607 797 527 797 433 c 256
+ 797 342 761 259 695 198 c 256
+ 652 158 610 139 564 139 c 256
+ 517 139 492 155 476 196 c 257
+ 439 159 404 144 357 144 c 256
+ 276 144 219 205 219 292 c 256
+ 219 445 339 593 463 593 c 256
+ 523.167 593 557.624 570.308 578 524 c 257
+ 595 574 l 257
+ 656 574 l 257
+466 539 m 256
+ 397.675 539 327.953 465.456 301.086 375 c 256
+ 278.693 299.608 280 202 371 202 c 256
+ 440.393 202 491.715 288.675 519.167 365 c 256
+ 547.826 444.682 558.686 539 466 539 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I50
+sa(dp8
+g6
+I139
+sg7
+I52
+sa(dp9
+g6
+I144
+sg7
+I58
+sa(dp10
+g6
+I539
+sg7
+I54
+sa(dp11
+g6
+I701
+sg7
+I51
+sasVvhints
+p12
+(lp13
+(dp14
+g6
+I71
+sg7
+I52
+sa(dp15
+g6
+I219
+sg7
+I72
+sa(dp16
+g6
+I747
+sg7
+I50
+sass."
+EndChar
+
+StartChar: numbersign
+Encoding: 3 35 109
+GlifName: numbersign
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 237 61<5 104 5 116 181 333 5 169 411 534> 453 61<21 145 21 156 21 210 221 373 450 549> 719 20<198 262 262 262 424 491 491 491>
+LayerCount: 2
+Fore
+SplineSet
+534 298 m 257
+ 534 237 l 257
+ 399 237 l 257
+ 356 0 l 257
+ 290 0 l 257
+ 333 237 l 257
+ 169 237 l 257
+ 124 0 l 257
+ 59 0 l 257
+ 104 237 l 257
+ 5 237 l 257
+ 5 298 l 257
+ 116 298 l 257
+ 145 453 l 257
+ 21 453 l 257
+ 21 514 l 257
+ 156 514 l 257
+ 198 739 l 257
+ 262 739 l 257
+ 221 514 l 257
+ 384 514 l 257
+ 424 739 l 257
+ 491 739 l 257
+ 450 514 l 257
+ 549 514 l 257
+ 549 453 l 257
+ 439 453 l 257
+ 411 298 l 257
+ 534 298 l 257
+373 453 m 257
+ 210 453 l 257
+ 181 298 l 257
+ 344 298 l 257
+ 373 453 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I237
+sg7
+I61
+sa(dp9
+g6
+I453
+sg7
+I61
+sa(dp10
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: degree
+Encoding: 109 176 110
+GlifName: degree
+Width: 400
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 380 57<174.5 226 174.5 242> 629 57<175 227>
+VStem: 50 56<506.5 559.5 506.5 576.5> 293 57<506 559.5>
+LayerCount: 2
+Fore
+SplineSet
+204 686 m 256
+ 286 686 350 619 350 533 c 256
+ 350 447 284 380 200 380 c 256
+ 116 380 50 448 50 534 c 256
+ 50 619 118 686 204 686 c 256
+202 629 m 256
+ 148 629 106 586 106 533 c 256
+ 106 480 149 437 200 437 c 256
+ 252 437 293 479 293 533 c 256
+ 293 586 252 629 202 629 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I380
+sVwidth
+p7
+I57
+sa(dp8
+g6
+I629
+sg7
+I57
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I50
+sg7
+I56
+sa(dp12
+g6
+I293
+sg7
+I57
+sass."
+EndChar
+
+StartChar: plus
+Encoding: 11 43 111
+GlifName: plus
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 267 74<51 265 51 265 342 555> 537 20<265 342 342 342>
+VStem: 265 77<49 267 49 267 341 557>
+LayerCount: 2
+Fore
+SplineSet
+265 341 m 257
+ 265 557 l 257
+ 342 557 l 257
+ 342 341 l 257
+ 555 341 l 257
+ 555 267 l 257
+ 342 267 l 257
+ 342 49 l 257
+ 265 49 l 257
+ 265 267 l 257
+ 51 267 l 257
+ 51 341 l 257
+ 265 341 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I267
+sVwidth
+p7
+I74
+sa(dp8
+g6
+I537
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I265
+sg7
+I77
+sass."
+EndChar
+
+StartChar: minus
+Encoding: 152 8722 112
+GlifName: minus
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 267 74<51 555 51 555>
+LayerCount: 2
+Fore
+SplineSet
+555 341 m 257
+ 555 267 l 257
+ 51 267 l 257
+ 51 341 l 257
+ 555 341 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I267
+sVwidth
+p7
+I74
+sass."
+EndChar
+
+StartChar: divide
+Encoding: 124 247 113
+GlifName: divide
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 112 87<259 346 259 346> 267 74<51 555 51 555> 409 87<259 346 259 346>
+VStem: 259 87<112 199 409 496>
+LayerCount: 2
+Fore
+SplineSet
+346 409 m 257
+ 259 409 l 257
+ 259 496 l 257
+ 346 496 l 257
+ 346 409 l 257
+346 112 m 257
+ 259 112 l 257
+ 259 199 l 257
+ 346 199 l 257
+ 346 112 l 257
+555 341 m 257
+ 555 267 l 257
+ 51 267 l 257
+ 51 341 l 257
+ 555 341 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I112
+sVwidth
+p7
+I87
+sa(dp8
+g6
+I267
+sg7
+I74
+sa(dp9
+g6
+I409
+sg7
+I87
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I259
+sg7
+I87
+sass."
+EndChar
+
+StartChar: equal
+Encoding: 29 61 114
+GlifName: equal
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 164 74<51 555 51 555> 362 74<51 555 51 555>
+LayerCount: 2
+Fore
+SplineSet
+555 436 m 257
+ 555 362 l 257
+ 51 362 l 257
+ 51 436 l 257
+ 555 436 l 257
+555 238 m 257
+ 555 164 l 257
+ 51 164 l 257
+ 51 238 l 257
+ 555 238 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I164
+sVwidth
+p7
+I74
+sa(dp8
+g6
+I362
+sg7
+I74
+sass."
+EndChar
+
+StartChar: trademark
+Encoding: 151 8482 115
+GlifName: trademark
+Width: 1000
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 681 58<63 205 63 413 269 413 269 269>
+VStem: 205 64<340 681 340 681> 461 64<340 685 340 739 340 739> 874 64<340 684 684 684>
+LayerCount: 2
+Fore
+SplineSet
+938 739 m 257
+ 938 340 l 257
+ 874 340 l 257
+ 874 684 l 257
+ 718 340 l 257
+ 676 340 l 257
+ 525 685 l 257
+ 525 340 l 257
+ 461 340 l 257
+ 461 739 l 257
+ 570 739 l 257
+ 697 455 l 257
+ 832 739 l 257
+ 938 739 l 257
+413 739 m 257
+ 413 681 l 257
+ 269 681 l 257
+ 269 340 l 257
+ 205 340 l 257
+ 205 681 l 257
+ 63 681 l 257
+ 63 739 l 257
+ 413 739 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I681
+sVwidth
+p7
+I58
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I205
+sg7
+I64
+sa(dp11
+g6
+I461
+sg7
+I64
+sa(dp12
+g6
+I874
+sg7
+I64
+sass."
+EndChar
+
+StartChar: paragraph
+Encoding: 115 182 116
+GlifName: paragraph
+Width: 564
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 672 67<302 416 302 302>
+VStem: 227 75<-133 355 355 355> 416 75<-133 672 672 672>
+LayerCount: 2
+Fore
+SplineSet
+227 -133 m 257
+ 227 355 l 257
+ 109 367 37 441 37 549 c 256
+ 37 615 67 672 119 706 c 256
+ 155 729 196 739 260 739 c 258
+ 491 739 l 257
+ 491 -133 l 257
+ 416 -133 l 257
+ 416 672 l 257
+ 302 672 l 257
+ 302 -133 l 257
+ 227 -133 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I672
+sVwidth
+p7
+I67
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I227
+sg7
+I75
+sa(dp11
+g6
+I416
+sg7
+I75
+sass."
+EndChar
+
+StartChar: currency
+Encoding: 98 164 117
+GlifName: currency
+Width: 554
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 50 72<247.5 304.5> 483 70<248.5 305 248.5 331> 528 20<84 84> 529 20<469 469>
+VStem: 26 71<273.5 332.5> 457 71<270 329.5 270 354.5>
+LayerCount: 2
+Fore
+SplineSet
+29 494 m 257
+ 84 548 l 257
+ 127 506 l 257
+ 180 540 221 553 276 553 c 256
+ 334 553 382 538 426 507 c 257
+ 469 549 l 257
+ 523 494 l 257
+ 482 452 l 257
+ 514 405 528 359 528 300 c 256
+ 528 240 512 191 481 153 c 257
+ 523 111 l 257
+ 469 58 l 257
+ 428 100 l 257
+ 371 62 333 50 276 50 c 256
+ 219 50 180 63 126 100 c 257
+ 84 58 l 257
+ 31 112 l 257
+ 72 153 l 257
+ 40 197 26 244 26 303 c 256
+ 26 362 40 406 73 452 c 257
+ 29 494 l 257
+280 483 m 256
+ 174 483 97 407 97 302 c 256
+ 97 199 175 122 279 122 c 256
+ 380 122 457 200 457 303 c 256
+ 457 406 382 483 280 483 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I50
+sVwidth
+p7
+I72
+sa(dp8
+g6
+I483
+sg7
+I70
+sa(dp9
+g6
+I528
+sg7
+I20
+sa(dp10
+g6
+I529
+sg7
+I20
+sasVvhints
+p11
+(lp12
+(dp13
+g6
+I26
+sg7
+I71
+sa(dp14
+g6
+I457
+sg7
+I71
+sass."
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 139 8218 118
+GlifName: quotesinglbase
+Width: 354
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+89 -67 m 257
+ 177 126 l 257
+ 251 126 l 257
+ 163 -67 l 257
+ 89 -67 l 257
+EndSplineSet
+EndChar
+
+StartChar: quoteright
+Encoding: 138 8217 119
+GlifName: quoteright
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<179 253 253 253>
+LayerCount: 2
+Fore
+SplineSet
+91 547 m 257
+ 179 739 l 257
+ 253 739 l 257
+ 165 547 l 257
+ 91 547 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: braceleft
+Encoding: 91 123 120
+GlifName: braceleft
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<271 271>
+VStem: 116 77<13 182 430 431 431 600 600 601>
+LayerCount: 2
+Fore
+SplineSet
+271 739 m 257
+ 271 672 l 257
+ 220 669 193 666 193 601 c 258
+ 193 431 l 258
+ 193 344.916 165 329 104 306 c 257
+ 167.342 282.247 193 262.757 193 182 c 258
+ 193 12 l 258
+ 193 -44.6118 212.677 -53.6979 271 -59 c 257
+ 271 -126 l 257
+ 204 -125 186 -121 162 -105 c 256
+ 131 -85 116 -47 116 13 c 258
+ 116 183 l 258
+ 116 245 102 260 37 272 c 257
+ 37 341 l 257
+ 102 352 116 368 116 430 c 258
+ 116 600 l 258
+ 116 660 131 698 162 718 c 256
+ 186 734 204 737 271 739 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I116
+sg7
+I77
+sass."
+EndChar
+
+StartChar: braceright
+Encoding: 93 125 121
+GlifName: braceright
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20
+VStem: 116 77
+LayerCount: 2
+Fore
+Refer: 120 123 N -1 0 0 1 308 0 2
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I116
+sg7
+I77
+sass."
+EndChar
+
+StartChar: ordfeminine
+Encoding: 104 170 122
+GlifName: ordfeminine
+Width: 369
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 319 51<31 339 31 339> 441 49<157.5 203.5> 696 49<158 203.5 141 210>
+VStem: 31 53<567 621.5 567 635.5> 285 48<448 493 493 493 694 739 448 739>
+LayerCount: 2
+Fore
+SplineSet
+333 739 m 257
+ 333 448 l 257
+ 285 448 l 257
+ 285 493 l 257
+ 256 456 225 441 182 441 c 256
+ 100 441 31 511 31 594 c 256
+ 31 677 99 745 183 745 c 256
+ 224 745 266 724 285 694 c 257
+ 285 739 l 257
+ 333 739 l 257
+184 696 m 256
+ 132 696 84 648 84 595 c 256
+ 84 539 131 490 184 490 c 256
+ 236 490 282 539 282 592 c 256
+ 282 648 236 696 184 696 c 256
+31 370 m 257
+ 339 370 l 257
+ 339 319 l 257
+ 31 319 l 257
+ 31 370 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I319
+sVwidth
+p7
+I51
+sa(dp8
+g6
+I441
+sg7
+I49
+sa(dp9
+g6
+I696
+sg7
+I49
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I31
+sg7
+I53
+sa(dp13
+g6
+I285
+sg7
+I48
+sass."
+EndChar
+
+StartChar: ordmasculine
+Encoding: 119 186 123
+GlifName: ordmasculine
+Width: 369
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 319 51<32 337 32 337> 442 49<157 212 157 225.5> 696 49<156.5 212.5>
+VStem: 32 53<565.5 622 565.5 636> 284 53<564.5 621.5>
+LayerCount: 2
+Fore
+SplineSet
+185 745 m 256
+ 267 745 337 676 337 594 c 256
+ 337 511 267 442 184 442 c 256
+ 100 442 32 510 32 596 c 256
+ 32 676 102 745 185 745 c 256
+184 696 m 256
+ 129 696 85 650 85 594 c 256
+ 85 537 129 491 185 491 c 256
+ 239 491 284 537 284 592 c 256
+ 284 651 241 696 184 696 c 256
+32 370 m 257
+ 337 370 l 257
+ 337 319 l 257
+ 32 319 l 257
+ 32 370 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I319
+sVwidth
+p7
+I51
+sa(dp8
+g6
+I442
+sg7
+I49
+sa(dp9
+g6
+I696
+sg7
+I49
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I32
+sg7
+I53
+sa(dp13
+g6
+I284
+sg7
+I53
+sass."
+EndChar
+
+StartChar: plusminus
+Encoding: 110 177 124
+GlifName: plusminus
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 74<51 555 51 555> 295 74<51 265 51 265 342 555>
+VStem: 265 77<124 295 124 295 369 585>
+LayerCount: 2
+Fore
+SplineSet
+265 369 m 257
+ 265 585 l 257
+ 342 585 l 257
+ 342 369 l 257
+ 555 369 l 257
+ 555 295 l 257
+ 342 295 l 257
+ 342 124 l 257
+ 265 124 l 257
+ 265 295 l 257
+ 51 295 l 257
+ 51 369 l 257
+ 265 369 l 257
+555 74 m 257
+ 555 0 l 257
+ 51 0 l 257
+ 51 74 l 257
+ 555 74 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I74
+sa(dp8
+g6
+I295
+sg7
+I74
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I265
+sg7
+I77
+sass."
+EndChar
+
+StartChar: fraction
+Encoding: 150 8260 125
+GlifName: fraction
+Width: 166
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<227 281 281 281>
+LayerCount: 2
+Fore
+SplineSet
+-115 0 m 257
+ 227 739 l 257
+ 281 739 l 257
+ -61 0 l 257
+ -115 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: percent
+Encoding: 5 37 126
+GlifName: percent
+Width: 775
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 66<546.5 605.5 546.5 624.5> 272 66<546.5 606.5> 397 66<158 217.5 158 236.5> 683 66<158.5 218.5> 719 20<514 588 588 588>
+VStem: 13 66<543 603.5 543 622> 296 68<542.5 603> 401 67<132 193 132 211> 684 68<132 192>
+LayerCount: 2
+Fore
+SplineSet
+514 739 m 257
+ 588 739 l 257
+ 254 0 l 257
+ 182 0 l 257
+ 514 739 l 257
+578 338 m 256
+ 673 338 752 258 752 163 c 256
+ 752 66 673 -13 576 -13 c 256
+ 480 -13 401 66 401 162 c 256
+ 401 260 479 338 578 338 c 256
+577 272 m 256
+ 516 272 468 224 468 162 c 256
+ 468 102 517 53 576 53 c 256
+ 635 53 684 102 684 162 c 256
+ 684 222 636 272 577 272 c 256
+190 749 m 256
+ 285 749 364 669 364 573 c 256
+ 364 476 285 397 188 397 c 256
+ 92 397 13 476 13 573 c 256
+ 13 671 91 749 190 749 c 256
+189 683 m 256
+ 128 683 79 634 79 573 c 256
+ 79 513 128 463 188 463 c 256
+ 247 463 296 512 296 573 c 256
+ 296 633 248 683 189 683 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I66
+sa(dp8
+g6
+I272
+sg7
+I66
+sa(dp9
+g6
+I397
+sg7
+I66
+sa(dp10
+g6
+I683
+sg7
+I66
+sa(dp11
+g6
+I719
+sg7
+I20
+sasVvhints
+p12
+(lp13
+(dp14
+g6
+I13
+sg7
+I66
+sa(dp15
+g6
+I296
+sg7
+I68
+sa(dp16
+g6
+I401
+sg7
+I67
+sa(dp17
+g6
+I684
+sg7
+I68
+sass."
+EndChar
+
+StartChar: perthousand
+Encoding: 147 8240 127
+GlifName: perthousand
+Width: 1174
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 66<546.5 605.5 546.5 624.5 945.5 1004.5> 272 66<546.5 606.5 945.5 1005.5> 397 66<158 217.5 158 236.5> 683 66<158.5 218.5> 719 20<514 588 588 588>
+VStem: 13 66<543 603.5 543 622> 296 68<542.5 603> 401 67<132 193 132 211> 684 68<132 192> 800 67<132 193 132 211> 1083 68<132 192>
+LayerCount: 2
+Fore
+SplineSet
+514 739 m 257
+ 588 739 l 257
+ 254 0 l 257
+ 182 0 l 257
+ 514 739 l 257
+578 338 m 256
+ 673 338 752 258 752 163 c 256
+ 752 66 673 -13 576 -13 c 256
+ 480 -13 401 66 401 162 c 256
+ 401 260 479 338 578 338 c 256
+577 272 m 256
+ 516 272 468 224 468 162 c 256
+ 468 102 517 53 576 53 c 256
+ 635 53 684 102 684 162 c 256
+ 684 222 636 272 577 272 c 256
+977 338 m 256
+ 1072 338 1151 258 1151 163 c 256
+ 1151 66 1072 -13 975 -13 c 256
+ 879 -13 800 66 800 162 c 256
+ 800 260 878 338 977 338 c 256
+976 272 m 256
+ 915 272 867 224 867 162 c 256
+ 867 102 916 53 975 53 c 256
+ 1034 53 1083 102 1083 162 c 256
+ 1083 222 1035 272 976 272 c 256
+190 749 m 256
+ 285 749 364 669 364 573 c 256
+ 364 476 285 397 188 397 c 256
+ 92 397 13 476 13 573 c 256
+ 13 671 91 749 190 749 c 256
+189 683 m 256
+ 128 683 79 634 79 573 c 256
+ 79 513 128 463 188 463 c 256
+ 247 463 296 512 296 573 c 256
+ 296 633 248 683 189 683 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I66
+sa(dp8
+g6
+I272
+sg7
+I66
+sa(dp9
+g6
+I397
+sg7
+I66
+sa(dp10
+g6
+I683
+sg7
+I66
+sa(dp11
+g6
+I719
+sg7
+I20
+sasVvhints
+p12
+(lp13
+(dp14
+g6
+I13
+sg7
+I66
+sa(dp15
+g6
+I296
+sg7
+I68
+sa(dp16
+g6
+I401
+sg7
+I67
+sa(dp17
+g6
+I684
+sg7
+I68
+sa(dp18
+g6
+I800
+sg7
+I67
+sa(dp19
+g6
+I1083
+sg7
+I68
+sass."
+EndChar
+
+StartChar: backslash
+Encoding: 60 92 128
+GlifName: backslash
+Width: 605
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<84 154 154 154>
+LayerCount: 2
+Fore
+SplineSet
+464 0 m 257
+ 394 0 l 257
+ 84 739 l 257
+ 154 739 l 257
+ 464 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sass."
+EndChar
+
+StartChar: dieresis
+Encoding: 102 168 129
+GlifName: dieresis
+Width: 369
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 623 126<74 148 74 148 74 221 221 295>
+VStem: 74 74<623 749 623 749> 221 74<623 749 623 749>
+LayerCount: 2
+Fore
+SplineSet
+74 749 m 257
+ 148 749 l 257
+ 148 623 l 257
+ 74 623 l 257
+ 74 749 l 257
+221 749 m 257
+ 295 749 l 257
+ 295 623 l 257
+ 221 623 l 257
+ 221 749 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I623
+sVwidth
+p7
+I126
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I74
+sg7
+I74
+sa(dp11
+g6
+I221
+sg7
+I74
+sass."
+EndChar
+
+StartChar: dotaccent
+Encoding: 130 729 130
+GlifName: dotaccent
+Width: 222
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 623 126<74 148 74 148>
+VStem: 74 74<623 749 623 749>
+LayerCount: 2
+Fore
+SplineSet
+74 749 m 257
+ 148 749 l 257
+ 148 623 l 257
+ 74 623 l 257
+ 74 749 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I623
+sVwidth
+p7
+I126
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I74
+sg7
+I74
+sass."
+EndChar
+
+StartChar: ring
+Encoding: 131 730 131
+GlifName: ring
+Width: 332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 610 41<152 180 152 191.5> 753 41<152 180>
+VStem: 74 41<687.5 715.5 687.5 727> 217 41<688 715.5>
+LayerCount: 2
+Fore
+SplineSet
+167 794 m 256
+ 217 794 258 752 258 702 c 256
+ 258 651 217 610 166 610 c 256
+ 115 610 74 651 74 701 c 256
+ 74 753 115 794 167 794 c 256
+166 753 m 256
+ 138 753 115 730 115 701 c 256
+ 115 674 138 651 166 651 c 256
+ 194 651 217 674 217 702 c 256
+ 217 729 194 753 166 753 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I610
+sVwidth
+p7
+I41
+sa(dp8
+g6
+I753
+sg7
+I41
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I74
+sg7
+I41
+sa(dp12
+g6
+I217
+sg7
+I41
+sass."
+EndChar
+
+StartChar: acute
+Encoding: 113 180 132
+GlifName: acute
+Width: 375
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+74 666 m 257
+ 267 782 l 257
+ 301 724 l 257
+ 108 610 l 257
+ 74 666 l 257
+EndSplineSet
+EndChar
+
+StartChar: grave
+Encoding: 64 96 133
+GlifName: grave
+Width: 378
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+106 776 m 257
+ 304 666 l 257
+ 271 610 l 257
+ 74 718 l 257
+ 106 776 l 257
+EndSplineSet
+EndChar
+
+StartChar: circumflex
+Encoding: 127 710 134
+GlifName: circumflex
+Width: 502
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 729 20<219 285 285 285>
+LayerCount: 2
+Fore
+SplineSet
+74 623 m 257
+ 219 749 l 257
+ 285 749 l 257
+ 428 623 l 257
+ 339 623 l 257
+ 253 697 l 257
+ 165 623 l 257
+ 74 623 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I729
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: caron
+Encoding: 128 711 135
+GlifName: caron
+Width: 502
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 729 20<74 163 163 163 337 428 428 428>
+LayerCount: 2
+Fore
+SplineSet
+428 749 m 257
+ 283 623 l 257
+ 217 623 l 257
+ 74 749 l 257
+ 163 749 l 257
+ 249 675 l 257
+ 337 749 l 257
+ 428 749 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I729
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: breve
+Encoding: 129 728 136
+GlifName: breve
+Width: 453
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 623 58<202.631 247.5 202.631 269> 723 20<74 138 138 138 314 378 378 378>
+LayerCount: 2
+Fore
+SplineSet
+74 743 m 257
+ 138 743 l 257
+ 145.177 698.142 179.262 681 226 681 c 256
+ 269 681 309.834 698.21 314 743 c 257
+ 378 743 l 257
+ 365.863 660.588 312 623 226 623 c 256
+ 137 623 89 661 74 743 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I623
+sVwidth
+p7
+I58
+sa(dp8
+g6
+I723
+sg7
+I20
+sass."
+EndChar
+
+StartChar: tilde
+Encoding: 133 732 137
+GlifName: tilde
+Width: 439
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 633 64<270.5 284.5 270.5 290.5> 665 63<158.5 173.5>
+LayerCount: 2
+Fore
+SplineSet
+108 633 m 257
+ 75 679 l 257
+ 98 709 133 728 168 728 c 256
+ 186 728 197 725 227 711 c 256
+ 243 704 266 697 275 697 c 256
+ 294 697 312 707 332 728 c 257
+ 365 682 l 257
+ 349 656 307 633 274 633 c 256
+ 260 633 241 639 208 655 c 256
+ 193 661 179 665 168 665 c 256
+ 149 665 141 661 115 639 c 258
+ 108 633 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I633
+sVwidth
+p7
+I64
+sa(dp8
+g6
+I665
+sg7
+I63
+sass."
+EndChar
+
+StartChar: hungarumlaut
+Encoding: 134 733 138
+GlifName: hungarumlaut
+Width: 552
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+74 657 m 257
+ 245 780 l 257
+ 283 731 l 257
+ 109 610 l 257
+ 74 657 l 257
+270 657 m 257
+ 441 780 l 257
+ 479 731 l 257
+ 305 610 l 257
+ 270 657 l 257
+EndSplineSet
+EndChar
+
+StartChar: cedilla
+Encoding: 117 184 139
+GlifName: cedilla
+Width: 324
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -213 43<151.5 176 151.5 187.5> -72 33<168.5 174.5>
+VStem: 207 43<-137.5 -109>
+LayerCount: 2
+Fore
+SplineSet
+124 0 m 257
+ 160 0 l 257
+ 141 -47 l 257
+ 156 -41 163 -39 174 -39 c 256
+ 219 -39 250 -72 250 -120 c 256
+ 250 -174 213 -213 162 -213 c 256
+ 116 -213 85 -187 74 -140 c 257
+ 118 -135 l 257
+ 124 -157 140 -170 163 -170 c 256
+ 189 -170 207 -151 207 -124 c 256
+ 207 -94 188 -72 161 -72 c 256
+ 144 -72 132 -79 118 -96 c 257
+ 89 -79 l 257
+ 124 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-213
+sVwidth
+p7
+I43
+sa(dp8
+g6
+I-72
+sg7
+I33
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I207
+sg7
+I43
+sass."
+EndChar
+
+StartChar: ogonek
+Encoding: 132 731 140
+GlifName: ogonek
+Width: 302
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -191 45<166 185>
+VStem: 74 50<-111 -83.5 -111 -81>
+LayerCount: 2
+Fore
+SplineSet
+146 0 m 257
+ 197 0 l 257
+ 154 -31 124 -70 124 -97 c 256
+ 124 -125 149 -146 183 -146 c 256
+ 199 -146 213 -143 228 -136 c 257
+ 228 -182 l 257
+ 209 -188 193 -191 177 -191 c 256
+ 117 -191 74 -153 74 -101 c 256
+ 74 -61 96 -30 146 0 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-191
+sVwidth
+p7
+I45
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I74
+sg7
+I50
+sass."
+EndChar
+
+StartChar: macron
+Encoding: 108 175 141
+GlifName: macron
+Width: 485
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 643 64<74 411 74 411>
+LayerCount: 2
+Fore
+SplineSet
+74 707 m 257
+ 411 707 l 257
+ 411 643 l 257
+ 74 643 l 257
+ 74 707 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I643
+sVwidth
+p7
+I64
+sass."
+EndChar
+
+StartChar: commaaccent
+Encoding: 159 -1 142
+GlifName: commaaccent
+Width: 351
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -225 172<101 223 149 175>
+LayerCount: 2
+Fore
+SplineSet
+101 -225 m 257
+ 149 -53 l 257
+ 223 -53 l 257
+ 175 -225 l 257
+ 101 -225 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-225
+sVwidth
+p7
+I172
+sass."
+EndChar
+
+StartChar: copyright
+Encoding: 103 169 143
+GlifName: copyright
+Width: 747
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -13 52<283 462 283 477.5> 148 56<340 406 340 422.5> 538 56<340 408> 700 52<282.5 463.5>
+VStem: -9 56<278.5 461 278.5 475> 163 61<326.5 418 326.5 434> 699 56<276 459>
+LayerCount: 2
+Fore
+SplineSet
+501 261 m 257
+ 576 261 l 257
+ 536 191 463 148 382 148 c 256
+ 262 148 163 250 163 373 c 256
+ 163 495 261 594 383 594 c 256
+ 467 594 537 552 579 477 c 257
+ 505 477 l 257
+ 471 518 432 538 384 538 c 256
+ 296 538 224 464 224 372 c 256
+ 224 281 297 204 383 204 c 256
+ 429 204 469 223 501 261 c 257
+372 752 m 256
+ 587 752 755 582 755 365 c 256
+ 755 159 582 -13 373 -13 c 256
+ 162 -13 -9 158 -9 370 c 256
+ -9 580 162 752 372 752 c 256
+372 700 m 256
+ 193 700 47 552 47 370 c 256
+ 47 187 193 39 373 39 c 256
+ 551 39 699 187 699 365 c 256
+ 699 553 555 700 372 700 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I52
+sa(dp8
+g6
+I148
+sg7
+I56
+sa(dp9
+g6
+I538
+sg7
+I56
+sa(dp10
+g6
+I700
+sg7
+I52
+sasVvhints
+p11
+(lp12
+(dp13
+g6
+I-9
+sg7
+I56
+sa(dp14
+g6
+I163
+sg7
+I61
+sa(dp15
+g6
+I699
+sg7
+I56
+sass."
+EndChar
+
+StartChar: registered
+Encoding: 107 174 144
+GlifName: registered
+Width: 747
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: -13 52<283 462 283 477.5> 527 58<309 376 309 309> 700 52<282.5 463.5>
+VStem: -9 56<278.5 461 278.5 475> 248 61<157 359 365 527> 471 63<425 467.5 425 472> 699 56<276 459>
+LayerCount: 2
+Fore
+SplineSet
+248 157 m 257
+ 248 585 l 257
+ 380 585 l 258
+ 433 585 469 574 495 549 c 256
+ 519 525 534 487 534 448 c 256
+ 534 369.274967605 485.62014633 327.94573519 409 317 c 257
+ 530 157 l 257
+ 454 157 l 257
+ 309 359 l 257
+ 309 157 l 257
+ 248 157 l 257
+309 365 m 257
+ 353 365 l 258
+ 430 365 471 394 471 448 c 256
+ 471 496 433 527 376 527 c 258
+ 309 527 l 257
+ 309 365 l 257
+372 752 m 256
+ 587 752 755 582 755 365 c 256
+ 755 159 582 -13 373 -13 c 256
+ 162 -13 -9 158 -9 370 c 256
+ -9 580 162 752 372 752 c 256
+372 700 m 256
+ 193 700 47 552 47 370 c 256
+ 47 187 193 39 373 39 c 256
+ 551 39 699 187 699 365 c 256
+ 699 553 555 700 372 700 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-13
+sVwidth
+p7
+I52
+sa(dp8
+g6
+I527
+sg7
+I58
+sa(dp9
+g6
+I700
+sg7
+I52
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I-9
+sg7
+I56
+sa(dp13
+g6
+I248
+sg7
+I61
+sa(dp14
+g6
+I471
+sg7
+I63
+sa(dp15
+g6
+I699
+sg7
+I56
+sass."
+EndChar
+
+StartChar: space
+Encoding: 0 32 145
+GlifName: space
+Width: 277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: bullet
+Encoding: 145 8226 146
+GlifName: bullet
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+303 488 m 256
+ 406 488 488 406 488 304 c 256
+ 488 200 406 118 301 118 c 256
+ 201 118 118 202 118 303 c 256
+ 118 405 201 488 303 488 c 256
+EndSplineSet
+EndChar
+
+StartChar: lozenge
+Encoding: 156 9674 147
+GlifName: lozenge
+Width: 494
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 720 20<214 277 277 277>
+LayerCount: 2
+Fore
+SplineSet
+209 0 m 257
+ 18 377 l 257
+ 214 740 l 257
+ 277 740 l 257
+ 466 374 l 257
+ 269 0 l 257
+ 209 0 l 257
+240 58 m 257
+ 402 374 l 257
+ 245 683 l 257
+ 81 376 l 257
+ 240 58 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I720
+sg7
+I20
+sass."
+EndChar
+
+StartChar: notequal
+Encoding: 153 8800 148
+GlifName: notequal
+Width: 549
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 164 74<25 167 25 204 287 529 25 250> 362 74<25 267 25 304 387 529 25 350> 538 20<365 365>
+LayerCount: 2
+Fore
+SplineSet
+350 362 m 257
+ 287 238 l 257
+ 529 238 l 257
+ 529 164 l 257
+ 250 164 l 257
+ 189 42 l 257
+ 123 76 l 257
+ 167 164 l 257
+ 25 164 l 257
+ 25 238 l 257
+ 204 238 l 257
+ 267 362 l 257
+ 25 362 l 257
+ 25 436 l 257
+ 304 436 l 257
+ 365 558 l 257
+ 431 524 l 257
+ 387 436 l 257
+ 529 436 l 257
+ 529 362 l 257
+ 350 362 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I164
+sVwidth
+p7
+I74
+sa(dp8
+g6
+I362
+sg7
+I74
+sa(dp9
+g6
+I538
+sg7
+I20
+sass."
+EndChar
+
+StartChar: less
+Encoding: 28 60 149
+GlifName: less
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 545 20<558 558>
+LayerCount: 2
+Fore
+SplineSet
+558 565 m 257
+ 558 487 l 257
+ 157 300 l 257
+ 558 115 l 257
+ 558 37 l 257
+ 49 268 l 257
+ 49 333 l 257
+ 558 565 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I545
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: greater
+Encoding: 30 62 150
+GlifName: greater
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 545 20<48 48>
+LayerCount: 2
+Fore
+SplineSet
+48 37 m 257
+ 48 115 l 257
+ 450 302 l 257
+ 48 487 l 257
+ 48 565 l 257
+ 557 334 l 257
+ 557 269 l 257
+ 48 37 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I545
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: lessequal
+Encoding: 154 8804 151
+GlifName: lessequal
+Width: 549
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 74<26 530 26 530>
+LayerCount: 2
+Fore
+SplineSet
+26 411 m 257
+ 530 646 l 257
+ 530 565 l 257
+ 132 379 l 257
+ 530 194 l 257
+ 530 112 l 257
+ 26 347 l 257
+ 26 411 l 257
+530 74 m 257
+ 530 0 l 257
+ 26 0 l 257
+ 26 74 l 257
+ 530 74 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I74
+sass."
+EndChar
+
+StartChar: greaterequal
+Encoding: 155 8805 152
+GlifName: greaterequal
+Width: 549
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 74<26 530 26 530>
+LayerCount: 2
+Fore
+SplineSet
+530 411 m 257
+ 530 347 l 257
+ 26 112 l 257
+ 26 194 l 257
+ 424 379 l 257
+ 26 565 l 257
+ 26 646 l 257
+ 530 411 l 257
+530 74 m 257
+ 530 0 l 257
+ 26 0 l 257
+ 26 74 l 257
+ 530 74 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I74
+sass."
+EndChar
+
+StartChar: logicalnot
+Encoding: 106 172 153
+GlifName: logicalnot
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 363 73<51 483 51 555>
+VStem: 483 72<148 363 363 363>
+LayerCount: 2
+Fore
+SplineSet
+51 436 m 257
+ 555 436 l 257
+ 555 148 l 257
+ 483 148 l 257
+ 483 363 l 257
+ 51 363 l 257
+ 51 436 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I363
+sVwidth
+p7
+I73
+sasVvhints
+p8
+(lp9
+(dp10
+g6
+I483
+sg7
+I72
+sass."
+EndChar
+
+StartChar: asciicircum
+Encoding: 62 94 154
+GlifName: asciicircum
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 719 20<261 346 346 346>
+LayerCount: 2
+Fore
+SplineSet
+588 180 m 257
+ 507 180 l 257
+ 304 660 l 257
+ 99 180 l 257
+ 18 180 l 257
+ 261 739 l 257
+ 346 739 l 257
+ 588 180 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I719
+sVwidth
+p7
+I20
+sass."
+EndChar
+
+StartChar: bar
+Encoding: 92 124 155
+GlifName: bar
+Width: 672
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<304 368 368 368>
+VStem: 304 64<0 739 0 739>
+LayerCount: 2
+Fore
+SplineSet
+368 739 m 257
+ 368 0 l 257
+ 304 0 l 257
+ 304 739 l 257
+ 368 739 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I304
+sg7
+I64
+sass."
+EndChar
+
+StartChar: brokenbar
+Encoding: 100 166 156
+GlifName: brokenbar
+Width: 672
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 20 719 20<304 368 368 368>
+VStem: 304 64<0 295 0 295 444 739>
+LayerCount: 2
+Fore
+SplineSet
+368 739 m 257
+ 368 444 l 257
+ 304 444 l 257
+ 304 739 l 257
+ 368 739 l 257
+368 295 m 257
+ 368 0 l 257
+ 304 0 l 257
+ 304 295 l 257
+ 368 295 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I20
+sa(dp8
+g6
+I719
+sg7
+I20
+sasVvhints
+p9
+(lp10
+(dp11
+g6
+I304
+sg7
+I64
+sass."
+EndChar
+
+StartChar: underscore
+Encoding: 63 95 157
+GlifName: underscore
+Width: 500
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -125 58<0 500 0 500>
+LayerCount: 2
+Fore
+SplineSet
+0 -67 m 257
+ 500 -67 l 257
+ 500 -125 l 257
+ 0 -125 l 257
+ 0 -67 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-125
+sVwidth
+p7
+I58
+sass."
+EndChar
+
+StartChar: asciitilde
+Encoding: 94 126 158
+GlifName: asciitilde
+Width: 606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 231 77<406 432 406 440.5> 300 77<181.5 204>
+LayerCount: 2
+Fore
+SplineSet
+511 390 m 257
+ 555 343 l 257
+ 521 276 466 231 415 231 c 256
+ 392 231 366 238 322 257 c 258
+ 267 279 l 258
+ 224 297 214 300 194 300 c 256
+ 169 300 145 287 128 265 c 256
+ 117 250 112 242 93 210 c 257
+ 51 257 l 257
+ 99 343 138 377 194 377 c 256
+ 215 377 241 371 271 358 c 258
+ 336 331 l 258
+ 379 313 396 308 416 308 c 256
+ 448 308 477 332 511 390 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I231
+sVwidth
+p7
+I77
+sa(dp8
+g6
+I300
+sg7
+I77
+sass."
+EndChar
+
+StartChar: mu
+Encoding: 114 181 159
+GlifName: mu
+Width: 608
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -192 192 -13 67<286 334 286 345.5> 527 20<63 137 137 137 471 545 545 545>
+VStem: 63 74<-192 85 219.5 266 266 547> 471 74<0 85 85 85 266 547 0 547>
+LayerCount: 2
+Fore
+SplineSet
+137 85 m 257
+ 137 -192 l 257
+ 63 -192 l 257
+ 63 547 l 257
+ 137 547 l 257
+ 137 266 l 258
+ 137 173 148 140 190 101 c 256
+ 222 71 265 54 307 54 c 256
+ 361 54 411 80 440 123 c 256
+ 462 157 471 199 471 266 c 258
+ 471 547 l 257
+ 545 547 l 257
+ 545 0 l 257
+ 471 0 l 257
+ 471 85 l 257
+ 437 19 384 -13 307 -13 c 256
+ 236 -13 175 22 137 85 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I-192
+sVwidth
+p7
+I192
+sa(dp8
+g6
+I-13
+sg7
+I67
+sa(dp9
+g6
+I527
+sg7
+I20
+sasVvhints
+p10
+(lp11
+(dp12
+g6
+I63
+sg7
+I74
+sa(dp13
+g6
+I471
+sg7
+I74
+sass."
+EndChar
+
+StartChar: comma.heavy
+Encoding: 160 -1 160
+GlifName: comma.heavy
+Width: 280
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+HStem: 0 128
+LayerCount: 2
+Fore
+SplineSet
+82 -96.5121154686 m 1
+ 139.232623091 -86.2991095011 150 -52.9954768641 150 -17 c 258
+ 150 10 l 257
+ 82 10 l 257
+ 82 128 l 257
+ 205 128 l 257
+ 205 -7 l 258
+ 205 -47.0026 192.675 -80.5867 169.49 -104 c 256
+ 148.704000437 -124.990955254 119.188715451 -137.806758165 82 -139.743333131 c 1
+ 82 -96.5121154686 l 1
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.hintData
+p1
+(dp2
+Vhhints
+p3
+(lp4
+(dp5
+Vposition
+p6
+I0
+sVwidth
+p7
+I128
+sass."
+EndChar
+
+StartChar: semicolon.heavy
+Encoding: 161 -1 161
+Width: 280
+Flags: HW
+HStem: 0 128<72 205 72 131> 369 133<72 205 72 205>
+VStem: 72 133<-140 -7 -73 -7 0 128 369 502>
+LayerCount: 2
+Fore
+SplineSet
+82 -96.51171875 m 1
+ 139.232421875 -86.298828125 150 -52.9951171875 150 -17 c 258
+ 150 10 l 257
+ 82 10 l 257
+ 82 128 l 257
+ 205 128 l 257
+ 205 -7 l 258
+ 205 -47.0029296875 192.674804688 -80.5869140625 169.490234375 -104 c 256
+ 148.704101562 -124.991210938 119.188476562 -137.806640625 82 -139.743164062 c 1
+ 82 -96.51171875 l 1
+82 369 m 5
+ 82 502 l 5
+ 205 502 l 5
+ 205 369 l 5
+ 82 369 l 5
+EndSplineSet
+EndChar
+
+StartChar: quoteleft.heavy
+Encoding: 162 -1 162
+Width: 280
+Flags: HW
+HStem: 466 133<147 205 147 205 72 205> 719 20<187 205>
+LayerCount: 2
+Fore
+SplineSet
+205 690.51171875 m 1
+ 147.767578125 680.298828125 137 646.995117188 137 611 c 258
+ 137 584 l 257
+ 205 584 l 257
+ 205 466 l 257
+ 82 466 l 257
+ 82 601 l 258
+ 82 641.002929688 94.3251953125 674.586914062 117.509765625 698 c 256
+ 138.295898438 718.991210938 167.811523438 731.806640625 205 733.743164062 c 1
+ 205 690.51171875 l 1
+EndSplineSet
+EndChar
+
+StartChar: quoteright.heavy
+Encoding: 163 -1 163
+Width: 280
+Flags: HW
+HStem: 611 128<72 205 72 130>
+LayerCount: 2
+Fore
+SplineSet
+82 509.228515625 m 1
+ 139.232421875 519.44140625 150 552.745117188 150 588.740234375 c 258
+ 150 615.740234375 l 257
+ 82 615.740234375 l 257
+ 82 733.740234375 l 257
+ 205 733.740234375 l 257
+ 205 598.740234375 l 258
+ 205 558.737304688 192.674804688 525.153320312 169.490234375 501.740234375 c 256
+ 148.704101562 480.749023438 119.188476562 467.93359375 82 465.997070312 c 1
+ 82 509.228515625 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotesinglbase.heavy
+Encoding: 164 -1 164
+Width: 280
+VWidth: 0
+Flags: HW
+HStem: 0 128<70 203 70 128>
+LayerCount: 2
+Fore
+SplineSet
+82 -96.51171875 m 1
+ 139.232421875 -86.298828125 150 -52.9951171875 150 -17 c 258
+ 150 10 l 257
+ 82 10 l 257
+ 82 128 l 257
+ 205 128 l 257
+ 205 -7 l 258
+ 205 -47.0029296875 192.674804688 -80.5869140625 169.490234375 -104 c 256
+ 148.704101562 -124.991210938 119.188476562 -137.806640625 82 -139.743164062 c 1
+ 82 -96.51171875 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft.heavy
+Encoding: 165 -1 165
+Width: 480
+Flags: HW
+HStem: 466 133<145 203 145 203 70 203 145 277 352 410> 719 20<185 203 392 410>
+LayerCount: 2
+Fore
+SplineSet
+193 584 m 257
+ 193 466 l 257
+ 70 466 l 257
+ 70 601 l 258
+ 70 641.002929688 82.3251953125 674.586914062 105.509765625 698 c 256
+ 126.295898438 718.991210938 155.811523438 731.806640625 193 733.743164062 c 1
+ 193 690.51171875 l 1
+ 135.767578125 680.298828125 125 646.995117188 125 611 c 258
+ 125 584 l 257
+ 193 584 l 257
+410 584 m 261
+ 410 466 l 257
+ 287 466 l 257
+ 287 601 l 258
+ 287 641.002929688 299.325195312 674.586914062 322.509765625 698 c 256
+ 343.295898438 718.991210938 372.811523438 731.806640625 410 733.743164062 c 1
+ 410 690.51171875 l 1
+ 352.767578125 680.298828125 342 646.995117188 342 611 c 258
+ 342 584 l 257
+ 410 584 l 261
+EndSplineSet
+EndChar
+
+StartChar: quotedblright.heavy
+Encoding: 166 -1 166
+Width: 480
+Flags: HW
+HStem: 611 128<70 203 70 128 277 335 70 277>
+LayerCount: 2
+Fore
+SplineSet
+70 615.740234375 m 257
+ 70 733.740234375 l 257
+ 193 733.740234375 l 257
+ 193 598.740234375 l 258
+ 193 558.737304688 180.674804688 525.153320312 157.490234375 501.740234375 c 256
+ 136.704101562 480.749023438 107.188476562 467.93359375 70 465.997070312 c 1
+ 70 509.228515625 l 1
+ 127.232421875 519.44140625 138 552.745117188 138 588.740234375 c 258
+ 138 615.740234375 l 257
+ 70 615.740234375 l 257
+287 615.740234375 m 261
+ 287 733.740234375 l 257
+ 410 733.740234375 l 257
+ 410 598.740234375 l 258
+ 410 558.737304688 397.674804688 525.153320312 374.490234375 501.740234375 c 256
+ 353.704101562 480.749023438 324.188476562 467.93359375 287 465.997070312 c 1
+ 287 509.228515625 l 1
+ 344.232421875 519.44140625 355 552.745117188 355 588.740234375 c 258
+ 355 615.740234375 l 257
+ 287 615.740234375 l 261
+EndSplineSet
+EndChar
+
+StartChar: quotedblbase.heavy
+Encoding: 167 -1 167
+Width: 480
+Flags: HW
+HStem: 0 128<70 203 70 128 277 335 70 277>
+LayerCount: 2
+Fore
+SplineSet
+70 -96.771484375 m 5
+ 127.232421875 -86.55859375 138 -53.2548828125 138 -17.259765625 c 258
+ 138 9.740234375 l 257
+ 70 9.740234375 l 257
+ 70 127.740234375 l 257
+ 193 127.740234375 l 257
+ 193 -7.259765625 l 258
+ 193 -47.2626953125 180.674804688 -80.8466796875 157.490234375 -104.259765625 c 256
+ 136.704101562 -125.250976562 107.188476562 -138.06640625 70 -140.002929688 c 1
+ 70 -96.771484375 l 5
+287 -96.771484375 m 1
+ 344.232421875 -86.55859375 355 -53.2548828125 355 -17.259765625 c 258
+ 355 9.740234375 l 257
+ 287 9.740234375 l 257
+ 287 127.740234375 l 257
+ 410 127.740234375 l 257
+ 410 -7.259765625 l 258
+ 410 -47.2626953125 397.674804688 -80.8466796875 374.490234375 -104.259765625 c 256
+ 353.704101562 -125.250976562 324.188476562 -138.06640625 287 -140.002929688 c 1
+ 287 -96.771484375 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

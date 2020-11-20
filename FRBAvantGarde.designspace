@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="400" maximum="700" default="400"/>
+  </axes>
+  <sources>
+    <source filename="FRBAvantGarde-Regular.ufo" name="master.FRBAvantGarde.Regular.0" familyname="FRBAvantGarde" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="FRBAvantGarde-Bold.ufo" name="master.FRBAvantGarde.Bold.0" familyname="FRBAvantGarde" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
